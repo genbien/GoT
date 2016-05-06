@@ -60,7 +60,6 @@ Eon Hunter
 Irri
 Jhiqui
 Joby
-Joe
 Jon Snow
 Rickard Karstark
 Lady
@@ -81,7 +80,6 @@ Matthar
 Mhaegen
 Mikken
 Mink
-Hallis Mollen
 Mandon Moore
 Illyrio Mopatis
 Mord
@@ -129,7 +127,6 @@ Eddard Stark
 Rickon Stark
 Robb Stark
 Sansa Stark
-Steffon
 Joss Stilwood
 Stiv
 Summer
@@ -154,6 +151,5 @@ Wildling girl
 Will
 Wineseller
 Willis Wode
-Wyl
 Othell Yarwyck
 Yoren
