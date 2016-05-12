@@ -17,7 +17,7 @@ episode_nb = "01"
 
 ## dictionary to contain all scenes (key) and lists of characters (value)
 scenes = {}
-scene_id = 000
+scene_id = 0
 
 ## read transcripts (with timestamps and speaker information) into a file
 ## transcript file looks like:
