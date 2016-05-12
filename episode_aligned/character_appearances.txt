@@ -304,8 +304,6 @@
 > Fetching : [Joby] :  /wiki/Joby
 	Appears in episodes :
 		* name : "You Win or You Die" - number : 7
-> Fetching : [Joe] :  /wiki/Joe
-	Appears in episodes :
 > Fetching : [Jon Snow] :  /wiki/Jon_Snow
 	Appears in episodes :
 		* name : "Winter is Coming (episode)" - number : 1
@@ -419,8 +417,6 @@
 > Fetching : [Mink] :  /wiki/Mink
 	Appears in episodes :
 		* name : "You Win or You Die" - number : 7
-> Fetching : [Hallis Mollen] :  /wiki/Hallis_Mollen
-	Appears in episodes :
 > Fetching : [Mandon Moore] :  /wiki/Mandon_Moore
 	Appears in episodes :
 		* name : "You Win or You Die" - number : 7
@@ -524,3 +520,284 @@
 		* name : "Fire and Blood" - number : 10
 > Fetching : [Pypar] :  /wiki/Pypar
 	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Qotho] :  /wiki/Qotho
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+> Fetching : [Rakharo] :  /wiki/Rakharo
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Rancer] :  /wiki/Rancer
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Rast] :  /wiki/Rast
+	Appears in episodes :
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+> Fetching : [Rhaegal] :  /wiki/Rhaegal
+	Appears in episodes :
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Rorge] :  /wiki/Rorge
+	Appears in episodes :
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Ros] :  /wiki/Ros
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Gyles Rosby] :  /wiki/Gyles_Rosby
+	Appears in episodes :
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Pointy End" - number : 8
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Royal Steward] :  /wiki/Royal_Steward
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+> Fetching : [Waymar Royce] :  /wiki/Waymar_Royce
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+> Fetching : [Jaremy Rykker] :  /wiki/Jaremy_Rykker
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Aron Santagar] :  /wiki/Aron_Santagar
+	Appears in episodes :
+		* name : "The Pointy End" - number : 8
+> Fetching : [Barristan Selmy] :  /wiki/Barristan_Selmy
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+> Fetching : [Shae] :  /wiki/Shae
+	Appears in episodes :
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Shagga] :  /wiki/Shagga
+	Appears in episodes :
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+> Fetching : [Shaggydog] :  /wiki/Shaggydog
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Janos Slynt] :  /wiki/Janos_Slynt
+	Appears in episodes :
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+> Fetching : [Arya Stark] :  /wiki/Arya_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Benjen Stark] :  /wiki/Benjen_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+> Fetching : [Bran Stark] :  /wiki/Bran_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "The Pointy End" - number : 8
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Catelyn Stark] :  /wiki/Catelyn_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Eddard Stark] :  /wiki/Eddard_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Rickon Stark] :  /wiki/Rickon_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Pointy End" - number : 8
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Robb Stark] :  /wiki/Robb_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "A Golden Crown" - number : 6
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Sansa Stark] :  /wiki/Sansa_Stark
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "A Golden Crown" - number : 6
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Joss Stilwood] :  /wiki/Joss_Stilwood
+	Appears in episodes :
+		* name : "The Wolf and the Lion" - number : 5
+> Fetching : [Stiv] :  /wiki/Stiv
+	Appears in episodes :
+		* name : "A Golden Crown" - number : 6
+> Fetching : [Summer] :  /wiki/Summer
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+> Fetching : [Harys Swyft] :  /wiki/Harys_Swyft
+	Appears in episodes :
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Daenerys Targaryen] :  /wiki/Daenerys_Targaryen
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "A Golden Crown" - number : 6
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Viserys Targaryen] :  /wiki/Viserys_Targaryen
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+		* name : "The Kingsroad" - number : 2
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "A Golden Crown" - number : 6
+> Fetching : [Samwell Tarly] :  /wiki/Samwell_Tarly
+	Appears in episodes :
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Alliser Thorne] :  /wiki/Alliser_Thorne
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+> Fetching : [Timett] :  /wiki/Timett
+	Appears in episodes :
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+> Fetching : [Todder] :  /wiki/Todder
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Tomard] :  /wiki/Tomard
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Tommy] :  /wiki/Tommy_Dunne
+	Appears in episodes :
+> Fetching : [Meryn Trant] :  /wiki/Meryn_Trant
+	Appears in episodes :
+		* name : "The Pointy End" - number : 8
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Loras Tyrell] :  /wiki/Loras_Tyrell
+	Appears in episodes :
+		* name : "The Wolf and the Lion" - number : 5
+> Fetching : [Jon Umber] :  /wiki/Jon_Umber
+	Appears in episodes :
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Varly] :  /wiki/Varly
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Varys] :  /wiki/Varys
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Viserion] :  /wiki/Viserion
+	Appears in episodes :
+		* name : "Fire and Blood" - number : 10
+> Fetching : [Vorkoy] :  /wiki/Vorkoy
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Wallen] :  /wiki/Wallen
+	Appears in episodes :
+		* name : "A Golden Crown" - number : 6
+> Fetching : [Wildling girl] :  /wiki/Wildling_girl
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+> Fetching : [Will] :  /wiki/Will
+	Appears in episodes :
+		* name : "Winter is Coming (episode)" - number : 1
+> Fetching : [Wineseller] :  /wiki/Wineseller
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+> Fetching : [Willis Wode] :  /wiki/Willis_Wode
+	Appears in episodes :
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+> Fetching : [Othell Yarwyck] :  /wiki/Othell_Yarwyck
+	Appears in episodes :
+		* name : "You Win or You Die" - number : 7
+		* name : "The Pointy End" - number : 8
+> Fetching : [Yoren] :  /wiki/Yoren
+	Appears in episodes :
+		* name : "Lord Snow" - number : 3
+		* name : "Cripples, Bastards and Broken Things" - number : 4
+		* name : "The Wolf and the Lion" - number : 5
+		* name : "Baelor" - number : 9
+		* name : "Fire and Blood" - number : 10
