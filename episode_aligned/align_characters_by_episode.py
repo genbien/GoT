@@ -28,7 +28,7 @@ episodes = {
 	}
 
 ## make a directory to put the character files in if it doesn't yet exist
-directory = 'characters'
+directory = '../characters'
 if not os.path.exists(directory):
 	os.makedirs(directory)
 
@@ -72,7 +72,7 @@ with open(file) as f:
 		indiv_soup = BeautifulSoup(indiv_data)
 
 		## save html page containing individual character
-		indiv_f = open("characters/"+line+".html",'w')
+		indiv_f = open("../characters/"+line+".html",'w')
 		print(indiv_soup.prettify().encode("utf-8"), file=indiv_f)
 
 		print("\tAppears in episodes :")
