@@ -1,0 +1,32 @@
+{
+	"panels": 409,
+	"scenes": [
+		{ "id": 18,	"name": "Episode10_scene_18",	"start": 1808.4,	"duration":147.5,	"chars": [133]},
+		{ "id": 4,	"name": "Episode10_scene_4",	"start": 297.7,	"duration":30.3,	"chars": [97, 74]},
+		{ "id": 22,	"name": "Episode10_scene_22",	"start": 2271.8,	"duration":177.4,	"chars": [154, 121, 56, 42]},
+		{ "id": 20,	"name": "Episode10_scene_20",	"start": 2132.2,	"duration":19.3,	"chars": []},
+		{ "id": 3,	"name": "Episode10_scene_3",	"start": 225.6,	"duration":72.1,	"chars": [123, 97, 126]},
+		{ "id": 8,	"name": "Episode10_scene_8",	"start": 751,	"duration":134.5,	"chars": [127, 143, 49]},
+		{ "id": 25,	"name": "Episode10_scene_25",	"start": 2857,	"duration":109.3,	"chars": [87]},
+		{ "id": 10,	"name": "Episode10_scene_10",	"start": 876.4,	"duration":211.8,	"chars": [143, 124, 66, 65]},
+		{ "id": 15,	"name": "Episode10_scene_15",	"start": 1555.5,	"duration":54.6,	"chars": [135, 62]},
+		{ "id": 2,	"name": "Episode10_scene_2",	"start": 168.6,	"duration":57.0,	"chars": [123, 97]},
+		{ "id": 9,	"name": "Episode10_scene_9",	"start": 885.5,	"duration":-9.1,	"chars": []},
+		{ "id": 12,	"name": "Episode10_scene_12",	"start": 1273.4,	"duration":108.0,	"chars": [133, 87, 32]},
+		{ "id": 0,	"name": "Episode10_theme_song",	"start": 0,	"duration":103.3,	"chars": []},
+		{ "id": 7,	"name": "Episode10_scene_7",	"start": 597.4,	"duration":153.6,	"chars": [9, 128, 23]},
+		{ "id": 26,	"name": "Episode10_end",	"start": 2966.3,	"duration":61.5,	"chars": []},
+		{ "id": 5,	"name": "Episode10_scene_5",	"start": 328,	"duration":110.9,	"chars": [124, 127]},
+		{ "id": 1,	"name": "Episode10_scene_1",	"start": 103.3,	"duration":65.3,	"chars": [154, 121]},
+		{ "id": 17,	"name": "Episode10_scene_17",	"start": 1690.6,	"duration":117.8,	"chars": [62, 47, 103, 135]},
+		{ "id": 16,	"name": "Episode10_scene_16",	"start": 1610.1,	"duration":80.5,	"chars": [117, 69]},
+		{ "id": 13,	"name": "Episode10_scene_13",	"start": 1381.4,	"duration":34.3,	"chars": [133, 87]},
+		{ "id": 6,	"name": "Episode10_scene_6",	"start": 438.9,	"duration":158.5,	"chars": [77, 9, 128, 23]},
+		{ "id": 23,	"name": "Episode10_scene_23",	"start": 2449.2,	"duration":156.1,	"chars": [86, 62]},
+		{ "id": 21,	"name": "Episode10_scene_21",	"start": 2151.5,	"duration":120.3,	"chars": [145, 7, 9, 154]},
+		{ "id": 19,	"name": "Episode10_scene_19",	"start": 1955.9,	"duration":176.3,	"chars": [110]},
+		{ "id": 24,	"name": "Episode10_scene_24",	"start": 2605.3,	"duration":251.7,	"chars": [87, 133, 32]},
+		{ "id": 14,	"name": "Episode10_scene_14",	"start": 1415.7,	"duration":139.8,	"chars": [87, 133, 32]},
+		{ "id": 11,	"name": "Episode10_scene_11",	"start": 1088.2,	"duration":185.2,	"chars": [70, 69, 67]}
+	]
+}

@@ -1,0 +1,82 @@
+<characters>
+	<character group="0" id="0" name="Aemon" />
+	<character group="0" id="1" name="Allo" />
+	<character group="0" id="2" name="Armeca" />
+	<character group="0" id="3" name="Jon Arryn" />
+	<character group="0" id="4" name="Lysa Arryn" />
+	<character group="0" id="5" name="Robin Arryn" />
+	<character group="0" id="6" name="Arwaya Frey" />
+	<character group="0" id="7" name="Petyr Baelish" />
+	<character group="0" id="8" name="Balian" />
+	<character group="0" id="9" name="Joffrey Baratheon" />
+	<character group="0" id="10" name="Myrcella Baratheon" />
+	<character group="0" id="11" name="Renly Baratheon" />
+	<character group="0" id="12" name="Robert Baratheon" />
+	<character group="0" id="13" name="Tommen Baratheon" />
+	<character group="0" id="14" name="Biter" />
+	<character group="0" id="15" name="Boros Blount" />
+	<character group="0" id="16" name="Jonos Bracken" />
+	<character group="0" id="17" name="Bronn" />
+	<character group="0" id="18" name="Jory Cassel" />
+	<character group="0" id="19" name="Rodrik Cassel" />
+	<character group="0" id="20" name="Catspaw assassin" />
+	<character group="0" id="21" name="Chella" />
+	<character group="0" id="22" name="Gregor Clegane" />
+	<character group="0" id="23" name="Sandor Clegane" />
+	<character group="0" id="24" name="Clydas" />
+	<character group="0" id="25" name="Cohollo" />
+	<character group="0" id="26" name="Dareon" />
+	<character group="0" id="27" name="Beric Dondarrion" />
+	<character group="0" id="28" name="Doreah" />
+	<character group="0" id="29" name="Dothraki crone" />
+	<character group="0" id="30" name="Drogo" />
+	<character group="0" id="31" name="Drogon" />
+	<character group="0" id="32" name="Mirri Maz Duur" />
+	<character group="0" id="33" name="Echiel" />
+	<character group="0" id="34" name="Vardis Egen" />
+	<character group="0" id="35" name="Joyeuse Erenford" />
+	<character group="0" id="36" name="Escan" />
+	<character group="0" id="37" name="Jafer Flowers" />
+	<character group="0" id="38" name="Syrio Forel" />
+	<character group="0" id="39" name="Stevron Frey" />
+	<character group="0" id="40" name="Walder Frey" />
+	<character group="0" id="41" name="Gared" />
+	<character group="0" id="42" name="Gendry" />
+	<character group="0" id="43" name="Ghost" />
+	<character group="0" id="44" name="Galbart Glover" />
+	<character group="0" id="45" name="Gordo" />
+	<character group="0" id="46" name="Preston Greenfield" />
+	<character group="0" id="47" name="Grenn" />
+	<character group="0" id="48" name="Grey Wind" />
+	<character group="0" id="49" name="Theon Greyjoy" />
+	<character group="0" id="50" name="Jaqen H'ghar" />
+	<character group="0" id="51" name="Haggo" />
+	<character group="0" id="52" name="Halder" />
+	<character group="0" id="53" name="Masha Heddle" />
+	<character group="0" id="54" name="Heward" />
+	<character group="0" id="55" name="Hodor" />
+	<character group="0" id="56" name="Hot Pie" />
+	<character group="0" id="57" name="Hugh" />
+	<character group="0" id="58" name="Eon Hunter" />
+	<character group="0" id="59" name="Irri" />
+	<character group="0" id="60" name="Jhiqui" />
+	<character group="0" id="61" name="Joby" />
+	<character group="0" id="62" name="Jon Snow" />
+	<character group="0" id="63" name="Rickard Karstark" />
+	<character group="0" id="64" name="Lady" />
+	<character group="0" id="65" name="Cersei Lannister" />
+	<character group="0" id="66" name="Jaime Lannister" />
+	<character group="0" id="67" name="Kevan Lannister" />
+	<character group="0" id="68" name="Lancel" />
+	<character group="0" id="69" name="Tyrion Lannister" />
+	<character group="0" id="70" name="Tywin Lannister" />
+	<character group="0" id="71" name="Leo Lefford" />
+	<character group="0" id="72" name="Lommy" />
+	<character group="0" id="73" name="Luke" />
+	<character group="0" id="74" name="Luwin" />
+	<character group="0" id="75" name="Mago" />
+	<character group="0" id="76" name="Addam Marbrand" />
+	<character group="0" id="77" name="Marillion" />
+	<character group="0" id="78" name="Matthar" />
+	<character group="0" id="79" name="Mhaegen" />
+	<character group="0" id="80" name="Mikken" 
