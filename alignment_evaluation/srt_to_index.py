@@ -13,9 +13,9 @@ from pprint import pprint
 # define episode number on the command line or in run_eval.sh
 episode = sys.argv[1]
 
-subtitle_file     = 'GameOfThrones.Season01.Episode'+episode+'.en.srt'
-manual_align_file = 'manual_alignment_subtitles_transcripts_ep'+episode+'.txt'
-transcripts_file  = 'GameOfThrones.Season01.Episode'+episode+'.txt'
+subtitle_file     = 'subtitles/GameOfThrones.Season01.Episode'+episode+'.en.srt'
+manual_align_file = 'manual_aligned/manual_alignment_subtitles_transcripts_ep'+episode+'.txt'
+transcripts_file  = 'transcripts/GameOfThrones.Season01.Episode'+episode+'.txt'
 
 # Turns subtitle file with format
 #  642

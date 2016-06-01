@@ -1,5 +1,5 @@
-aligned_file = 'manual_alignment_subtitles_transcripts_ep01.txt'
-out_file     = 'mod_manual_alignment_subtitles_transcripts_ep01.txt'
+aligned_file = 'manual_aligned/manual_alignment_subtitles_transcripts_ep01.txt'
+out_file     = 'manual_aligned/mod_manual_alignment_subtitles_transcripts_ep01.txt'
 
 out = open(out_file, 'w')
 

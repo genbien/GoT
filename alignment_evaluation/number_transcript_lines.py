@@ -1,9 +1,9 @@
 # program to add numbers to a transcript file for easier manual alignment
 
-transcript_file = 'GameOfThrones.Season01.Episode01.txt'
-output = 'numbered_transcripts_'+transcript_file
-out = open(output, 'w')
-count = 0
+transcript_file = 'transcripts/GameOfThrones.Season01.Episode01.txt'
+output          = 'numbered_transcripts/numbered_transcripts_'+transcript_file
+out             = open(output, 'w')
+count           = 0
 
 with open(transcript_file) as f:
 	for line in f:
