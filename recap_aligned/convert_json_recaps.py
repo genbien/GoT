@@ -12,7 +12,6 @@ from pprint import pprint
 
 input_json_dir = '../../../0_corpus/recaps/recaps_json'
 output_txt_dir = '../../../0_corpus/recaps/recaps_txt'
-episode = 1
 
 # for each json file, create a text file containing the scene recap & delimiters
 for file in os.listdir(input_json_dir):

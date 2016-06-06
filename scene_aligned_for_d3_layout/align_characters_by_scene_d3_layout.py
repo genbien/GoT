@@ -7,9 +7,9 @@ from character_dictionary import characters
 ## a python script to align characters in Game of Thrones to the scenes in
 ## which they appear in the interest of making a narrative chart like xkcd
 ##
-## input : manually annotated transcripts, scene segmentations
-## output: narrative.json - a file used to make a narrative chart with tapestry
-## 		   (https://github.com/websages/tapestry)
+## input : aligned subtitle-transcripts, scene segmentations
+## output: data.json - a file used to make a narrative chart
+## 		   (https://github.com/abcnews/d3-layout-narrative)
 ##
 ################################################################################
 
@@ -20,14 +20,14 @@ episode_nb = "01"
 scenes = collections.OrderedDict()
 scene_id = 0
 
-## read transcripts (with timestamps and speaker information) into a file
-## transcript file looks like:
+## read aligned subtitle-transcripts (with timestamps and speaker information)
+## file looks like:
 ## 3475.599 3477.333 JAIME_LANNISTER The things I do for love.
 transcript_file = "../../../0_corpus/tvd/GameOfThrones/book/subtitles/GameOfThrones.Season01.Episode"+episode_nb+".txt"
 with open(transcript_file) as f:
 	transcripts = f.readlines()
 
-## create json file containing characters with their scenes (for tapestry)
+## create json file containing characters with their scenes
 narrative_json = open('data.json','w')
 print("{\n\t\"characters\": [", file=narrative_json)
 
