@@ -58,8 +58,15 @@ def dtwDistance(scene, transcript):
 	transcript = transcript[0]
 	scene_words = set(scene.split())
 	transcript_words = set(transcript.split())
+	# 1.
 	# number of unique words in scenes - number of unique words in common
-	return len(scene_words) - len(scene_words & transcript_words)
+	# return len(scene_words) - len(scene_words & transcript_words)
+	# 2. (best so far)
+	# number of unique words in transcripts - number of unique words in common
+	# return len(transcript_words) - len(transcript_words & scene_words)
+	# 3.
+	# number of unique words in scenes - number of unique words in common -- normalized
+	return (len(transcript_words) - len(transcript_words & scene_words)) / len(transcript_words | scene_words)
 
 
 # yay magic
@@ -81,7 +88,7 @@ for episode in dataset.episodes[:5]:
 	with open(tuple_file.format(episode=episode), 'w') as file:
 		alignment = sorted(alignment)
 		for a in alignment:
-			file.write(str(a[0])+"\t"+str(a[1])+"\n")
+			file.write(str(a[1])+"\t"+str(a[0])+"\n")
 
 	# dump text alignement to file
 	with open(output.format(episode=episode), 'w') as f:
