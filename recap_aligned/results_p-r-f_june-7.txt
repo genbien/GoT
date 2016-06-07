@@ -1,0 +1,75 @@
+Episode Recap + Transcript
+--------------------------
+================================================================================
+
+Episode 01
+----------
+
+Distance: #1. len(scene_words) - len(scene_words & transcript_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.00609756097561
+Recall......: 0.0059880239521
+F-score.....: 0.00604229607251
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #2. len(transcript_words) - len(transcript_words & scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.823170731707
+Recall......: 0.808383233533
+F-score.....: 0.815709969789
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / len(transcript_words | scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.0487804878049
+Recall......: 0.0479041916168
+F-score.....: 0.0483383685801
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+================================================================================
+
+Episode 02
+----------
+
+Distance: #1. len(scene_words) - len(scene_words & transcript_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.00332225913621
+Recall......: 0.00340136054422
+F-score.....: 0.00336134453782
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #2. len(transcript_words) - len(transcript_words & scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.77508650519
+Recall......: 0.761904761905
+F-score.....: 0.768439108062
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / len(transcript_words | scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.0138408304498
+Recall......: 0.0136054421769
+F-score.....: 0.0137221269297
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+================================================================================
