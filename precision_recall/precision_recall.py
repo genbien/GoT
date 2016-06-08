@@ -3,8 +3,8 @@ from pprint import pprint
 
 # hypothesis: automatically aligned file
 # reference : manually aligned file
-hypothesis_file = 'auto_subtitles_transcripts/auto_aligned_GameOfThrones.Season01.Episode03.txt'
-reference_file  = 'manual_subtitles_transcripts/manual_alignment_subtitles_transcripts_ep03.txt'
+hypothesis_file = '../recap_aligned/auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode03.txt'
+reference_file  = '../recap_aligned/manual_align/manual_aligned_GameOfThrones.Season01.Episode03.txt'
 
 hyp = set()
 ref = set()
