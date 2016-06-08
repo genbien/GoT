@@ -27,13 +27,13 @@ F-score.....: 0.815709969789
 
 ---
 
-Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / len(transcript_words | scene_words)
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 Calculations:
 - - - - - - -
-Precision...: 0.0487804878049
-Recall......: 0.0479041916168
-F-score.....: 0.0483383685801
+Precision...: 0.826219512195
+Recall......: 0.811377245509
+F-score.....: 0.818731117825
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
 ================================================================================
@@ -63,13 +63,49 @@ F-score.....: 0.768439108062
 
 ---
 
-Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / len(transcript_words | scene_words)
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 Calculations:
 - - - - - - -
-Precision...: 0.0138408304498
-Recall......: 0.0136054421769
-F-score.....: 0.0137221269297
+Precision...: 0.685121107266
+Recall......: 0.673469387755
+F-score.....: 0.679245283019
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+================================================================================
+
+Episode 03
+----------
+
+Distance: #1. len(scene_words) - len(scene_words & transcript_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.0143266475645
+Recall......: 0.0143266475645
+F-score.....: 0.0143266475645
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #2. len(transcript_words) - len(transcript_words & scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.819484240688
+Recall......: 0.819484240688
+F-score.....: 0.819484240688
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.830945558739
+Recall......: 0.830945558739
+F-score.....: 0.830945558739
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
 ================================================================================
