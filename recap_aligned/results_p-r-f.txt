@@ -1,14 +1,25 @@
-Episode Recap + Transcript
---------------------------
+Episode Recap + Transcript Alignment
+------------------------------------
 Summary of Results:
 - - - - - - - - - -
-Distance #1 has the worst results
-Distance #2.5 has the most 'best' scores
-Normalizing the distance (by dividing by the number of words in the transcript)
-	is a tiny bit better than no normalization (in episodes 1 and 3, not 2),
-	but only for non-lematized words.
-	When words are lemmatized, no normalization gives higher scores.
-Episodes 1 and 3 have similar results, not episode 2 - reason unknown...
+- Distance #1 has the worst results
+- Distances #2 and #2.5 have the most 'best' scores, same distance measure only
+	one is lemmatized words and one is simple whitespace seperated tokens.
+	- inconclusive if lemmatizing is best?
+	- BUT: Distances #2.5 and #3.5 are most consistenly in the top two scores,
+	  and both are the lemmatized versions of their distances.
+
+Best distance scores by episode: (based on f-scores)
+
+	  |	best    | 2nd best |
+----------------------------
+Ep01  | #2.5    | #3.5     |
+Ep02  | #2      | #3.5     |
+Ep03  | #2.5    | #3.5     |
+Ep04  | #2      | #3       |
+Ep05  | #3      | #2.5     |
+----------------------------
+
 ================================================================================
 
 Episode 01
@@ -169,6 +180,114 @@ Calculations:
 Precision...: 0.862464183381
 Recall......: 0.862464183381
 F-score.....: 0.862464183381
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+================================================================================
+
+Episode 04
+----------
+
+Distance: #1. len(scene_words) - len(scene_words & transcript_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.00995024875622
+Recall......: 0.00995024875622
+F-score.....: 0.00995024875622
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #2. len(transcript_words) - len(transcript_words & scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.893034825871
+Recall......: 0.893034825871
+F-score.....: 0.893034825871
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+Distance: #2.5 (lemmatized!) len(transcript_set) - len(transcript_set & scene_set)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.865671641791
+Recall......: 0.865671641791
+F-score.....: 0.865671641791
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.873134328358
+Recall......: 0.873134328358
+F-score.....: 0.873134328358
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+Distance: #3.5 (lemmatized!) (len(transcript_set) - len(transcript_set & scene_set)) / float(len(transcript_set))
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.863184079602
+Recall......: 0.863184079602
+F-score.....: 0.863184079602
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+================================================================================
+
+Episode 05
+----------
+
+Distance: #1. len(scene_words) - len(scene_words & transcript_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.00700934579439
+Recall......: 0.00697674418605
+F-score.....: 0.00699300699301
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #2. len(transcript_words) - len(transcript_words & scene_words)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.728971962617
+Recall......: 0.725581395349
+F-score.....: 0.727272727273
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+Distance: #2.5 (lemmatized!) len(transcript_set) - len(transcript_set & scene_set)
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.766355140187
+Recall......: 0.762790697674
+F-score.....: 0.764568764569
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+---
+
+Distance: #3. (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.848130841121
+Recall......: 0.844186046512
+F-score.....: 0.846153846154
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+Distance: #3.5 (lemmatized!) (len(transcript_set) - len(transcript_set & scene_set)) / float(len(transcript_set))
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Calculations:
+- - - - - - -
+Precision...: 0.726635514019
+Recall......: 0.723255813953
+F-score.....: 0.724941724942
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
 ================================================================================
