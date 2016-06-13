@@ -11,7 +11,7 @@ Summary of Results:
 
 Best distance scores by episode: (based on f-scores)
 
-	  |	best    | 2nd best |
+      |	best    | 2nd best |
 ----------------------------
 Ep01  | #2.5    | #3.5     |
 Ep02  | #2      | #3.5     |
@@ -19,6 +19,20 @@ Ep03  | #2.5    | #3.5     |
 Ep04  | #2      | #3       |
 Ep05  | #3      | #2.5     |
 ----------------------------
+
+            DISTANCE #1         DISTANCE #2     DISTANCE #2.5   DISTANCE #3     DISTANCE #3.5  | average
+EPISODE 01  0.00604229607251    0.815709969789  0.867069486405  0.818731117825  0.864048338369 | 0.674320241692102
+EPISODE 02  0.00336134453782    0.768439108062  0.720411663808  0.679245283019  0.727272727273 | 0.579746025339964
+EPISODE 03  0.0143266475645     0.819484240688  0.905444126074  0.830945558739  0.862464183381 | 0.6865329512893
+EPISODE 04  0.00995024875622    0.893034825871  0.865671641791  0.873134328358  0.863184079602 | 0.700995024875644
+EPISODE 05  0.00699300699301    0.727272727273  0.764568764569  0.846153846154  0.724941724942 | 0.613986013986202
+------------------------------------------------------------------------------------------------
+average     0.008134708784812   0.8047881743366 0.8246331365294 0.809642026819  0.8083822107134
+
+Conclusion: Of these 5 distance measures, distance #2.5 appears to be the best by a small margin.
+Therefore, lemmatizing the words before calculating the distance makes a small improvement in the results.
+Episode 04 was the most accurately aligned while the automatic alignmnet for Episode 02 was the least accurate.
+The difference between these two episodes' averages is however very small, at 0.121248999535680.
 
 ================================================================================
 
