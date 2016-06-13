@@ -87,30 +87,30 @@ def dtwDistance(scene, transcript):
 	# return len(transcript_words) - len(transcript_words & scene_words)
 	# 2.5.  (best so far)
 	# same as #2 but with lemmas instead of words
-	# return len(transcript_set) - len(transcript_set & scene_set)
+	return len(transcript_set) - len(transcript_set & scene_set)
 
 	# 3.
 	# number of unique words in scenes - number of unique words in common -- normalized
 	# return (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
 	# 3.5.
 	# same as #3 but with lemmas instead of words
-	return (len(transcript_set) - len(transcript_set & scene_set)) / float(len(transcript_set))
+	# return (len(transcript_set) - len(transcript_set & scene_set)) / float(len(transcript_set))
 
 # yay magic
 # scenes are vertical and transcripts are horizontal
 # make sure that DTW doesn't align a transcript to multiple scenes by adding no_vertical=True
 dtw        = DynamicTimeWarping(distance_func=dtwDistance, no_vertical=True)
 template   = '\t\ttranscript: {transcript}\nscene: {scene}\n\n'
-output     = '../../../1_scripts/GoT_git/recap_aligned/copy_auto_align/{episode}.txt'
-tuple_file = '../../../1_scripts/GoT_git/recap_aligned/copy_auto_align/tuples/auto_aligned_{episode}.txt'
+output     = '../../../1_scripts/GoT_git/recap_aligned/lemma_auto_align/{episode}.txt'
+tuple_file = '../../../1_scripts/GoT_git/recap_aligned/lemma_auto_align/tuples/auto_aligned_{episode}.txt'
 
 for episode in dataset.episodes[:5]:
-	# extract scenes and transcript sequences
-	scenes     = dtwScenes(dataset, episode)
+	# extract scene and transcript sequences
+	scene     = dtwScenes(dataset, episode)
 	transcript = dtwTranscript(dataset, episode)
 
 	# dynamic time warping, wooo
-	alignment = set(dtw(scenes, transcript))
+	alignment = set(dtw(scene, transcript))
 
 	# dump tuple alignment to file
 	with open(tuple_file.format(episode=episode), 'w') as file:
@@ -123,7 +123,7 @@ for episode in dataset.episodes[:5]:
 		for s, t in alignment:
 			data = {
 				'transcript': transcript[t][0],
-				'scene':  scenes[s][0]
+				'scene':  scene[s][0]
 			}
 			f.write(template.format(**data))
 

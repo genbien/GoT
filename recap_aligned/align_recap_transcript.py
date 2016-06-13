@@ -14,7 +14,7 @@ from pyannote.algorithms.alignment.dtw import DynamicTimeWarping
 dataset = GameOfThrones('../../../0_corpus/tvd')
 recaps_txt_dir = '../../../0_corpus/recaps/recaps_txt'
 
-# This function generates a sequence of scenes formatted in such a way it
+# This function generates a sequence of scene formatted in such a way it
 # can be used with DTW
 def dtwScenes(dataset, episode):
 	sequence  = []
@@ -58,6 +58,8 @@ def dtwDistance(scene, transcript):
 	transcript = transcript[0]
 	scene_words = set(scene.split())
 	transcript_words = set(transcript.split())
+
+
 	# 1.
 	# number of unique words in scenes - number of unique words in common
 	# return len(scene_words) - len(scene_words & transcript_words)
@@ -70,7 +72,7 @@ def dtwDistance(scene, transcript):
 
 
 # yay magic
-# scenes are vertical and transcripts are horizontal
+# scene are vertical and transcripts are horizontal
 # make sure that DTW doesn't align a transcript to multiple scenes by adding no_vertical=True
 dtw        = DynamicTimeWarping(distance_func=dtwDistance, no_vertical=True)
 template   = '\t\ttranscript: {transcript}\nscene: {scene}\n\n'
@@ -78,13 +80,12 @@ output     = '../../../1_scripts/GoT_git/recap_aligned/auto_align/{episode}.txt'
 tuple_file = '../../../1_scripts/GoT_git/recap_aligned/auto_align/tuples/auto_aligned_{episode}.txt'
 
 for episode in dataset.episodes[:5]:
-	# extract scenes and transcript sequences
-	scenes     = dtwScenes(dataset, episode)
+	# extract scene and transcript sequences
+	scene      = dtwScenes(dataset, episode)
 	transcript = dtwTranscript(dataset, episode)
 
 	# dynamic time warping, wooo
-	alignment = set(dtw(scenes, transcript))
-	# pprint.pprint(alignment)
+	alignment = set(dtw(scene, transcript))
 
 	# dump tuple alignment to file
 	with open(tuple_file.format(episode=episode), 'w') as file:
@@ -97,7 +98,7 @@ for episode in dataset.episodes[:5]:
 		for s, t in alignment:
 			data = {
 				'transcript': transcript[t][0],
-				'scene':  scenes[s][0]
+				'scene':  scene[s][0]
 			}
 			f.write(template.format(**data))
 
