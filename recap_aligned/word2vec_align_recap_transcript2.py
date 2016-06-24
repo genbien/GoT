@@ -52,8 +52,13 @@ def dtwTranscript(dataset, episode):
     return sequence
 
 def fancy_dist(s_vec_matrix, t_vec_matrix):
+    # cosine distance of scene vectors and transscript vectors
     step_matrix  = scipy.spatial.distance.cdist(s_vec_matrix, t_vec_matrix, "cosine")
-    f_dist = np.nanmean(1/(1+np.nanmin(step_matrix, axis=0)))
+    # replace nans
+    nan_loc = np.isnan(step_matrix)
+    step_matrix[nan_loc] = 1000
+    # find most similar word's distance
+    f_dist = -(np.mean(1/(1+np.min(step_matrix, axis=0))))
     return f_dist
 
 # This function creates a distance matrix to be used with DTW
@@ -63,11 +68,13 @@ def createDistanceMatrix(scene, transcript):
     dist_matrix  = []
     s_vec_matrix = {}
 
+    # make vector matrices for each scene
     for sidx, s in enumerate(scene):
         s = unicode(s[0], encoding="utf-8")
         scene_words = nlp(s)
         s_vec_matrix[sidx] = np.array([s_word.vector for s_word in scene_words])
 
+    # make vector matrices for each transcript
     t_vec_matrix = {}
     for tidx, t in enumerate(transcript):
         t = unicode(t[0], encoding="utf-8")
@@ -75,14 +82,12 @@ def createDistanceMatrix(scene, transcript):
         t_vec_matrix[tidx] = np.array([t_word.vector for t_word in trans_words])
 
 
+    # get distance of most similar word for scene and transcript
     dist_matrix = np.empty((len(scene), len(transcript)))
     for sidx, s in enumerate(scene):
        for tidx, t in enumerate(transcript):
             dist_matrix[sidx][tidx] = fancy_dist(s_vec_matrix[sidx], t_vec_matrix[tidx])
 
-    # replace nan vectors with highest distance vectors and avoid NoneType errors
-    nanmax = np.nanmax(dist_matrix)
-    dist_matrix[np.isnan(dist_matrix)] = nanmax
 
     return dist_matrix
 
