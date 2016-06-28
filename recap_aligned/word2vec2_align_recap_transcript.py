@@ -97,9 +97,9 @@ def createDistanceMatrix(scene, transcript):
 # dtw        = DynamicTimeWarping(distance_func=dtwDistance, no_vertical=True)
 dtw        = DynamicTimeWarping( no_vertical=True)
 template   = '\t\ttranscript: {transcript}\nscene: {scene}\n\n'
-output     = '../../../1_scripts/GoT_git/recap_aligned/word2vec_auto_align2/{episode}.txt'
-tuple_file = '../../../1_scripts/GoT_git/recap_aligned/word2vec_auto_align2/tuples/auto_aligned_{episode}.txt'
-dist_file  = '../../../1_scripts/GoT_git/recap_aligned/word2vec_auto_align2/dist_matrix/dist_matrix_{episode}.txt'
+output     = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/{episode}.txt'
+tuple_file = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/tuples/auto_aligned_{episode}.txt'
+dist_file  = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/dist_matrix/dist_matrix_{episode}.txt'
 
 for episode in dataset.episodes[:5]:
     # extract scene and transcript sequences
