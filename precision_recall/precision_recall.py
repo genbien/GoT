@@ -3,8 +3,11 @@ from pprint import pprint
 
 # hypothesis: automatically aligned file
 # reference : manually aligned file
-hypothesis_file = '../recap_aligned/auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode03.txt'
-reference_file  = '../recap_aligned/manual_align/manual_aligned_GameOfThrones.Season01.Episode03.txt'
+# hypothesis_file = '../recap_aligned/lemma_auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode04.txt'
+hypothesis_file = '../recap_aligned/doc2vec_auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode01.txt'
+# no lemmas in file below
+# hypothesis_file = '../recap_aligned/auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode05.txt'
+reference_file  = '../recap_aligned/manual_align/manual_aligned_GameOfThrones.Season01.Episode01.txt'
 
 hyp = set()
 ref = set()
