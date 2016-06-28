@@ -1,5 +1,6 @@
 .DS_Store
 *.pyc
+*.d2v
 alignment_evaluation/auto_aligned/*
 alignment_evaluation/bad/*
 alignment_evaluation/good/*
@@ -7,3 +8,14 @@ alignment_evaluation/numbered_transcripts/*
 alignment_evaluation/original_alignments/*
 alignment_evaluation/transcripts/*
 alignment_evaluation/subtitles/*
+recap_aligned/manual_align/original*
+recap_aligned/transcripts_backup/*
+recap_aligned/auto_align/*
+recap_aligned/old*
+plots/ipythonhistory
+precision_recall/AER_transcript_recap.numbers
+recap_aligned/doc2vec_auto_align/*
+recap_aligned/lemma_auto_align/*
+recap_aligned/word2vec2_auto_align/*
+recap_aligned/word2vec_auto_align/*
+recap_aligned/manual_align/adjust_man*
