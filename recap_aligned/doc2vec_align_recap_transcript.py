@@ -155,6 +155,17 @@ sources = {
     '../../../0_corpus/summaries/long_summary/cleaned/GameOfThrones.S01E08.en.txt': 'SUM08',
     '../../../0_corpus/summaries/long_summary/cleaned/GameOfThrones.S01E09.en.txt': 'SUM09',
     '../../../0_corpus/summaries/long_summary/cleaned/GameOfThrones.S01E10.en.txt': 'SUM10',
+
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E01.en.synopsis': 'SYN01',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E02.en.synopsis': 'SYN02',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E03.en.synopsis': 'SYN03',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E04.en.synopsis': 'SYN04',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E05.en.synopsis': 'SYN05',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E06.en.synopsis': 'SYN06',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E07.en.synopsis': 'SYN07',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E08.en.synopsis': 'SYN08',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E09.en.synopsis': 'SYN09',
+    '../../../0_corpus/synopsis/cleaned/GameOfThrones.S01E10.en.synopsis': 'SYN10',
 }
 
 sentences = LabeledLineSentence(sources)
