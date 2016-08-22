@@ -1,13 +1,25 @@
 # -*- coding: utf-8 -*-
 from pprint import pprint
 
+GREEN    = '\033[92m'
+YELLOW   = '\033[33m'
+RED      = '\033[31m'
+ENDCOLOR = '\033[0m'
+
+ep = '01'
+# can be    :    '',      'lemma_',   'word2vec_', 'pos_', 'word2vec2_', 'pos2_','doc2vec_', 'word2vec3_', 'word2vec4_'
+# distance #: (1, 2, 3)  (2.5, 3.5)       (4)       (4.5)      (5)        (5.5)     (6)          (7)          (8)
+# align_t = 'word2vec4_'
+
 # hypothesis: automatically aligned file
 # reference : manually aligned file
-# hypothesis_file = '../recap_aligned/lemma_auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode04.txt'
-hypothesis_file = '../recap_aligned/doc2vec_auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode01.txt'
-# no lemmas in file below
-# hypothesis_file = '../recap_aligned/auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode05.txt'
-reference_file  = '../recap_aligned/manual_align/manual_aligned_GameOfThrones.Season01.Episode01.txt'
+
+# hypothesis_file = '../recap_aligned/'+align_t+'auto_align/tuples/auto_aligned_GameOfThrones.Season01.Episode'+ep+'.txt' ## scene + transcript
+# reference_file  = '../recap_aligned/manual_align/manual_aligned_GameOfThrones.Season01.Episode'+ep+'.txt' ## scene + transcript
+
+# tfidf_with_transcripts ... tfidf ... common_lemmas ... common_words
+hypothesis_file = '../book_align/scene_chapter_auto_align/common_words/auto_align_ep'+ep+'.txt' ## scene + chapter
+reference_file  = '../../../0_corpus/annotations/scene_chapter_manual_align/Xscene_chapter_manual_align_ep'+ep+'.txt' ## scene + chapter
 
 hyp = set()
 ref = set()
@@ -41,6 +53,16 @@ make_sets(reference_file, ref)
 tp = float(len(hyp & ref))
 fp = float(len(hyp - ref))
 fn = float(len(ref - hyp))
+
+print GREEN+"true positives"+ENDCOLOR
+for alignment in hyp & ref:
+	print GREEN+str(alignment)+ENDCOLOR
+print YELLOW+"false positives"+ENDCOLOR
+for alignment in hyp - ref:
+	print YELLOW+str(alignment)+ENDCOLOR
+print RED+"false negatives"+ENDCOLOR
+for alignment in ref - hyp:
+	print RED+str(alignment)+ENDCOLOR
 
 precision = tp / (tp + fp)
 recall = tp / (tp + fn)
