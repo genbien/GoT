@@ -45,7 +45,7 @@ def tokenize(text):
     return text
 
 
-def parse_book(book_file):
+def parse_book(book_file, flag):
     # chapter titles are all caps and only one word
     title_pattern = re.compile("^[A-Z]+$")
 
@@ -65,7 +65,8 @@ def parse_book(book_file):
                     chapter = []
                 else:
                     # preprocess line and put into chapter
-                    line = preprocess(line)
+                    if flag == 1:
+                        line = preprocess(line)
                     chapter.append(line)
         # put the last chapter in the book
         i += 1
@@ -74,7 +75,7 @@ def parse_book(book_file):
     return(book)
 
 
-def parse_scenes(scenes_dir):
+def parse_scenes(scenes_dir, flag):
     scenes = []
     ep = 1
     for filename in os.listdir(scenes_dir):
@@ -87,7 +88,8 @@ def parse_scenes(scenes_dir):
             for scene in recap:
                 if scene:
                     # preprocess
-                    scene = preprocess(scene)
+                    if flag == 1:
+                        scene = preprocess(scene)
                     scenes.append(scene)
                 nb += 1
             ep += 1
@@ -97,8 +99,12 @@ def parse_scenes(scenes_dir):
 book_file  = '../../../0_corpus/books/AGameOfThrones.txt'
 scenes_dir = '../../../0_corpus/recaps/recaps_txt/'
 
-book   = parse_book(book_file)
-scenes = parse_scenes(scenes_dir)
+book   = parse_book(book_file, 1)
+scenes = parse_scenes(scenes_dir, 1)
+
+# don't preprocess for NER text
+book_for_text   = parse_book(book_file, 0)
+scenes_for_text = parse_scenes(scenes_dir, 0)
 
 print('# of chapters: '+str(len(book)))
 print('# of scenes: '+str(len(scenes)))
@@ -134,6 +140,12 @@ ep3 = open("scene_chapter_auto_align/tfidf/auto_align_ep03.txt", 'w')
 ep4 = open("scene_chapter_auto_align/tfidf/auto_align_ep04.txt", 'w')
 ep5 = open("scene_chapter_auto_align/tfidf/auto_align_ep05.txt", 'w')
 
+ep1_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep01.txt", 'w')
+ep2_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep02.txt", 'w')
+ep3_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep03.txt", 'w')
+ep4_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep04.txt", 'w')
+ep5_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep05.txt", 'w')
+
 x = []
 y = []
 scene_count = 1
@@ -142,14 +154,39 @@ for d in distances:
     print(d[0], d[1])
     if 0 < d[0] and d[0] < 36:
         print(str(d[0])+'\t'+str(d[1]), file=ep1)
+        if d[0] != 'x' and d[1] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep1_full_text)
+            print(str(d[0])+'\t'+book_for_text[d[1] - 1], file=ep1_full_text)
+        elif d[0] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep1_full_text)
     if 35 < d[0] and d[0] < 67:
         print(str(d[0])+'\t'+str(d[1]), file=ep2)
+        if d[0] != 'x' and d[1] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep2_full_text)
+            print(str(d[0])+'\t'+book_for_text[d[1] - 1], file=ep2_full_text)
+        elif d[0] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep2_full_text)
     if 66 < d[0] and d[0] < 94:
         print(str(d[0])+'\t'+str(d[1]), file=ep3)
+        if d[0] != 'x' and d[1] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep3_full_text)
+            print(str(d[0])+'\t'+book_for_text[d[1] - 1], file=ep3_full_text)
+        elif d[0] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep3_full_text)
     if 93 < d[0] and d[0] < 120:
         print(str(d[0])+'\t'+str(d[1]), file=ep4)
+        if d[0] != 'x' and d[1] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep4_full_text)
+            print(str(d[0])+'\t'+book_for_text[d[1] - 1], file=ep4_full_text)
+        elif d[0] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep4_full_text)
     if 119 < d[0] and d[0] < 146:
         print(str(d[0])+'\t'+str(d[1]), file=ep5)
+        if d[0] != 'x' and d[1] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep5_full_text)
+            print(str(d[0])+'\t'+book_for_text[d[1] - 1], file=ep5_full_text)
+        elif d[0] != 'x':
+            print(str(d[0])+'\t'+scenes_for_text[d[0] - 1], file=ep5_full_text)
     print(str(d[0])+'\t'+str(d[1]), file=plot_file)
     if d[1] != 'x':
         x.append(d[0])
