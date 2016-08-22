@@ -1,0 +1,3064 @@
+1
+ORG Castle Black
+CARDINAL three
+ORG the Nights Watch  
+ORG Ser Waymar Royce
+LOC the Haunted Forest
+PERSON Ser Waymar
+PERSON Castle Black
+PERSON Ser Waymar
+PERSON Ser Waymar
+PERSON Ser Waymar
+PERSON Ser Waymar
+PERSON Gared
+PERSON Ser Waymar
+ORG Gareds
+PERSON Gared
+PERSON Wills
+DATE Eight days
+CARDINAL nine
+ORG Ser Waymar Royce
+DATE every day
+GPE Gared
+PERSON Gared
+DATE forty years
+ORG Night
+DATE four years
+ORDINAL first
+QUANTITY a hundred rangings
+TIME tonight
+TIME tonight
+DATE Nine days
+DATE the day
+DATE Today
+DATE All day
+PERSON Will
+PERSON Ser Waymar Royce
+CARDINAL eighteen
+PERSON Ser Waymar
+ORG Night
+DATE half a year
+PERSON Mormont
+CARDINAL half
+ORG Night
+ORG Mallisters
+CARDINAL one
+PERSON Mallisters
+QUANTITY two miles
+CARDINAL eight
+CARDINAL One
+CARDINAL one
+CARDINAL half
+ORG Frost - fallen
+PERSON Royce
+PERSON Ser Waymar
+DATE last winter
+CARDINAL half
+ORDINAL First
+ORG Ser Waymar
+CARDINAL Two
+CARDINAL three
+PERSON Ser Waymar
+PERSON Maester Aemon
+DATE this past week
+DATE a week
+DATE this past week
+CARDINAL eight
+PERSON Ser Waymar Royce
+PERSON Ser Waymar
+PERSON Royce
+CARDINAL half
+DATE Four years
+ORG Will
+ORG Ser Waymar Royce
+PERSON Ser Waymar
+PERSON Ser Waymar
+ORG Castle Black
+ORDINAL first
+GPE Pale
+FAC Ser Waymar Royce
+PERSON Will
+PERSON Ser Waymar
+TIME Night
+ORDINAL first
+CARDINAL Three
+CARDINAL four
+CARDINAL five
+PERSON Ser Waymar
+ORDINAL second
+ORDINAL third
+ORG Will
+PERSON Ser Waymar
+PERSON Royce
+PERSON Ser Waymar 's
+PERSON Ser Waymar Royce
+PERSON Robert
+CARDINAL hundred
+PERSON Royce
+CARDINAL one
+QUANTITY a few feet
+PERSON Mormont
+PERSON Maester Aemon
+PERSON Ser Waymar Royce
+--------------------------------------------------------------------
+2
+GPE Winterfell
+PERSON House Stark
+PERSON Stark
+--------------------------------------------------------------------
+3
+ORG Winterfell
+--------------------------------------------------------------------
+4
+PERSON Bran Stark
+DATE ten - year - old
+ORDINAL third
+PERSON Lord Eddard Stark
+GPE Winterfells
+PERSON Lady Catelyn
+PERSON House Tully
+PERSON Robb Stark
+PERSON Jon Snow
+PERSON Catelyn
+--------------------------------------------------------------------
+5
+PERSON Eddard Starks
+CARDINAL two
+DATE thirteen - year - old
+PERSON Sansa
+PERSON Arya
+ORG Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+PERSON Sansa
+PERSON Lady Catelyn
+PERSON Arya
+PERSON Septa Mordane
+DATE today
+PERSON Arya
+PERSON Myrcella
+PERSON Sansa
+PERSON Beth Cassel
+PERSON Ser Rodrik 's
+PERSON Jeyne Poole
+PERSON Arya
+PERSON Jeyne
+PERSON Sansa
+PERSON Beth
+PERSON Arya
+PERSON Jeyne
+PERSON Septa Mordane
+PERSON Myrcella
+PERSON Sansa
+PERSON Arya
+ORG Joffrey
+PERSON Sansa
+PERSON Arya
+PERSON Jeyne
+PERSON Winterfell
+ORG Sansa
+PERSON Beth
+ORG Sansa
+PERSON Sansa
+PERSON Arya
+PERSON Beth
+PERSON Sansa
+GPE Arya
+PERSON Prince Joff
+PERSON Jon
+PERSON Arya
+PERSON Sansa
+PERSON Poor Jon
+PERSON Arya
+TIME afternoon
+ORG Septa Mordane
+CARDINAL half
+PERSON Arya
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+GPE Sansa
+PERSON Arya
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Jeyne
+PERSON Arya
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Myrcella
+PERSON Myrcella
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+DATE two years
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+ORG Tullys
+PERSON Arya
+PERSON Jeyne
+CARDINAL one
+PERSON Arya
+PERSON Sansa
+PERSON Prince Joff
+PERSON Arya
+PERSON Nymeria
+GPE Arya
+PERSON Arya
+PERSON Nymeria
+PERSON Mother
+PERSON Arya
+PERSON Nymeria
+PERSON Arya
+CARDINAL two
+PERSON Arya
+PERSON Rhoyne
+PERSON Sansa
+PERSON Arya
+PERSON Nymeria
+ORG Septa Mordane
+PERSON Arya
+PERSON Robb
+PERSON Nymeria
+PERSON Jon
+CARDINAL one
+PERSON Nymeria
+PERSON Jon
+PERSON Bran
+PERSON Prince Tommen
+PERSON Ser Rodrik Cassel
+CARDINAL A dozen
+PERSON Robb
+PERSON Theon Greyjoy
+ORG House
+PERSON Arya
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Robb
+PERSON Sansa
+PERSON Bran
+PERSON Rickon
+PERSON Tullys
+PERSON Arya
+PERSON Jon
+PERSON Jon
+PERSON Arya
+ORDINAL second
+DATE today
+PERSON Arya
+GPE Tommen
+CARDINAL nine
+PERSON Jon
+DATE fourteen - year - old
+PERSON Arya
+PERSON Jon
+PERSON Tommen
+PERSON Jon
+ORDINAL first
+PERSON Lannister
+PERSON Baratheon
+PERSON Jon
+PERSON Arya
+ORG House
+GPE Lannister
+PERSON Jon
+ORG House
+PERSON Arya
+PERSON Jon
+PERSON Wed Tully
+PERSON Stark
+PERSON Jon
+PERSON Prince Tommen
+PERSON Lew
+LOC Donnis
+PERSON Robb
+PERSON Robb
+PERSON Rodrik
+PERSON Ser Rodrik
+PERSON Theon Greyjoy
+PERSON Robb
+ORG Starks
+PERSON Joff
+PERSON Robb
+PERSON Joffrey
+PERSON Jon
+PERSON Arya
+PERSON Ser Rodrik
+PERSON Robb
+PERSON Robb
+PERSON Arya
+WORK_OF_ART Master - at - arms of Winterfell
+GPE Clegane
+PERSON Ser Rodrik
+PERSON Robb
+CARDINAL Fourteen
+PERSON Robb
+CARDINAL twelve
+PERSON Robb
+PERSON Rodrik
+PERSON Stark
+PERSON Lannister
+PERSON Robb
+PERSON Arya
+PERSON Theon Greyjoy
+PERSON Robb
+PERSON Ser Rodrik
+GPE Tommen
+ORG Lannisters
+PERSON Robb
+PERSON Ser Rodrik 's
+PERSON Theon
+PERSON Robb
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Septa Mordane
+DATE winter
+DATE spring
+PERSON Arya
+PERSON Jon
+PERSON Nymeria
+PERSON Arya
+PERSON Jon
+ORG Septa Mordane
+PERSON Septa Mordane
+--------------------------------------------------------------------
+6
+PERSON Robb
+PERSON Jon
+PERSON Rickon
+PERSON Eddard
+CARDINAL ten
+PERSON Arya
+ORG Winterfells
+PERSON Ser Rodrik Cassel
+LOC Eddards
+PERSON Theon Greyjoy
+PERSON Rodrik
+ORG the Nights Watch
+ORG Eddard
+PERSON Robb
+PERSON Jon
+PERSON Bran
+PERSON Eddard
+ORG Catelyn
+PERSON Jon Snow
+PERSON Robb
+ORG Winterfell
+PERSON Robb
+DATE two years old
+PERSON Joseth
+ORDINAL first
+PERSON Joseth
+PERSON Hodor
+PERSON Bran
+ORG Imp
+PERSON Grey Wind
+PERSON Theon Greyjoy
+CARDINAL four
+PERSON Joseth
+PERSON Robb
+PERSON Hullen
+PERSON Maester Luwin
+PERSON Robb
+CARDINAL two
+PERSON Hal Mollen
+PERSON Maester Luwin
+PERSON Bran
+TIME Less than one in
+CARDINAL five
+CARDINAL one
+DATE winter
+PERSON Maester Luwin
+CARDINAL one
+PERSON Robb
+ORDINAL first
+CARDINAL Two
+PERSON Theon
+PERSON Robb
+WORK_OF_ART Sweet Kyra
+PERSON Theon
+PERSON Robb
+PERSON Greyjoy
+PERSON Robb
+ORG Theon
+PERSON Bran
+PERSON Robb
+PERSON Robb
+PERSON Dancer
+ORG Theon Greyjoy
+PERSON Robb
+PERSON Dancer
+PERSON Robb
+QUANTITY two miles
+DATE winter
+PERSON Robb
+PERSON Bran
+PERSON Summer
+TIME last night
+WORK_OF_ART Grey Wind
+PERSON Robb
+DATE fifteen years
+PERSON Robb
+CARDINAL eight
+CARDINAL fifteen
+ORG Winterfell
+PERSON Robb
+ORG King 's Landing
+PERSON Maester Luwin
+PERSON Robb
+ORG the Lord Commander
+ORG Night
+ORG Uncle Benjen
+PERSON Mother
+PERSON Lannister
+PERSON Lannisters
+PERSON Robb
+DATE that day
+PERSON Maester Luwin
+PERSON Theon Greyjoy
+PERSON Hallis Mollen
+PERSON Robb
+PERSON Moat Cailin
+ORDINAL First
+PERSON Mother
+PERSON Jory Cassel
+PERSON Wyl
+PERSON Heward
+PERSON Robb
+ORG Winterfell
+PERSON Jory
+FAC the Great Hall
+PERSON Robb
+PERSON Father
+PERSON Alyn
+PERSON Maester Pycelle
+PERSON Theon
+PERSON Robb
+PERSON Robb
+PERSON Theon Greyjoy
+PERSON Theon
+PERSON Robb
+PERSON Greyjoy
+PERSON Theon
+PERSON Robb
+PERSON Robb
+PERSON Rickon
+PERSON Mother
+ORG Theon
+PERSON Bran
+PERSON Robb
+PERSON Robb
+PERSON Robb
+PERSON Maester Luwin
+PERSON Robb
+PERSON Theon
+ORG Winterfell
+ORDINAL first
+ORG Theon
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Jon
+GPE Winterfell
+PERSON Jon
+PERSON Benjen
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Bran
+PERSON Robb
+ORDINAL second
+ORDINAL first
+PERSON Robb
+ORG Theon
+PERSON Robb
+GPE Bran
+PERSON Theon
+PERSON Maester Luwin
+GPE Joseth
+PERSON Bran
+PERSON Dancer
+CARDINAL One
+CARDINAL four
+CARDINAL two
+ORDINAL second
+QUANTITY eight feet
+ORG Night
+PERSON Lord Eddard
+PERSON Robb
+ORG Dancer
+PERSON Stiv
+PERSON Brandon Stark
+ORG Winterfell
+PERSON Stark
+PERSON Stark
+PERSON Hali
+ORG Mance
+PERSON Benjen Stark 's
+PERSON Osha
+PERSON Bran
+PERSON Robb
+PERSON Hali
+CARDINAL one
+CARDINAL six
+PERSON Osha
+PERSON Robb
+ORG Grey Wind
+ORG Summer
+PERSON Summer
+PERSON Wolves
+PERSON Hali
+CARDINAL half
+PERSON Maester Luwin
+GPE Farlen
+ORG Grey Wind 's
+TIME night
+PERSON Robb
+PERSON Robb
+CARDINAL half a second
+PERSON Grey Wind
+PERSON Robb
+PERSON Osha
+CARDINAL three
+PERSON Robb
+PERSON Robb
+QUANTITY A few feet
+PERSON Summer
+GPE Hali
+PERSON Summer
+PERSON Hali
+ORDINAL sixth
+ORG Grey Wind
+PERSON Stiv
+ORG Bran
+CARDINAL one
+ORG Stiv
+PERSON Robb
+PERSON Bran
+PERSON Hali
+PERSON Osha
+PERSON Grey Wind
+WORK_OF_ART Grey Wind
+PERSON Robb
+ORG Grey Wind
+PERSON Robb
+PERSON Summer
+PERSON Osha
+PERSON Robb
+PERSON Stiv
+PERSON Starks
+PERSON Starks
+PERSON Osha
+TIME a moment
+PERSON Stiv
+PERSON Robb
+PERSON Robb Stark
+ORG Winterfell
+PERSON Robb
+PERSON Robb
+PERSON Robb
+PERSON Stiv
+PERSON Stiv
+GPE Bran
+PERSON Father
+PERSON Robb
+PERSON Summer
+PERSON Hali
+PERSON Joseth
+GPE Bran
+PERSON Bran
+ORG Theon Greyjoy
+PERSON Jon
+PERSON Greyjoy
+PERSON Robb
+PERSON Robb
+PERSON Greyjoy
+PERSON Theon
+CARDINAL one
+PERSON Robb
+PERSON Quent
+ORDINAL first
+PERSON Luwin
+ORG Theon
+PERSON Theon
+PERSON Robb
+ORG Theon
+PERSON Maester Luwin
+CARDINAL Two
+PERSON Robb
+PERSON Robb
+PERSON Stiv
+TIME Night
+ORG Winterfell
+PERSON Maester Luwin
+GPE Quent
+PERSON Robb
+PERSON Hack
+GPE Osha
+PERSON Robb
+PERSON Stark
+PERSON Wallen
+PERSON Theon Greyjoy
+PERSON Robb
+PERSON Hali
+PERSON Robb
+PERSON Mance Rayder
+PERSON Robb
+PERSON Maester Luwin
+PERSON Maester
+PERSON Wayn
+ORG Winterfell
+--------------------------------------------------------------------
+7
+PERSON Jon
+PERSON Bran
+PRODUCT Valyrian
+PERSON Jon
+PERSON Eddard
+PERSON Bran
+PERSON Bran
+PERSON Starks
+PERSON Eddard
+PERSON Bran
+ORG Eddard
+CARDINAL thousands
+PRODUCT Will
+--------------------------------------------------------------------
+8
+ORG Winterfell
+PERSON Eddard
+CARDINAL one
+PERSON Robb
+PERSON Wall
+PERSON Jon
+CARDINAL five
+PERSON Rodrik
+ORG Theon
+ORDINAL first
+PERSON Jon
+CARDINAL five
+CARDINAL one
+PERSON Stark
+PERSON House Stark
+PERSON Bran
+PERSON Jon
+PERSON Stark
+PERSON Theon
+PERSON Jon
+--------------------------------------------------------------------
+9
+ORG Kings Landing
+ORG the Seven Kingdoms
+ORG Queen Cersei Lannister
+PERSON Jaime
+PERSON Jaime
+PERSON Cersei
+QUANTITY a hundred feet
+LOC Casterly Rock
+PERSON Jaime
+PERSON Cersei
+PERSON Arryn
+PERSON Robert Baratheon
+PERSON Jaime
+PERSON Robert
+PERSON Hand
+PERSON Cersei
+PERSON Jaime
+PERSON Hand
+PERSON Jaime
+--------------------------------------------------------------------
+10
+ORG Winterfell
+PERSON Catelyn
+--------------------------------------------------------------------
+11
+PERSON Catelyn
+PERSON Eddard
+CARDINAL five
+PERSON Catelyn
+PERSON Eddard
+PERSON Catelyn
+ORG Kings Landing
+PERSON Jon Arryn
+PERSON Eddard
+PERSON Lysa
+NORP Catelyns
+PERSON Robin
+PERSON Catelyn
+PERSON Robert
+ORG Winterfell
+PERSON Eddard
+CARDINAL one
+--------------------------------------------------------------------
+12
+ORG Winterfell
+PERSON Catelyn
+PERSON Maester Luwin
+ORG Tyrion Lannister
+PERSON Jaime
+PERSON Cerseis
+PERSON Luwin
+ORG Tyrion
+PERSON Catelyn
+PERSON Luwin
+--------------------------------------------------------------------
+13
+PERSON Robb
+PERSON Theon
+PERSON Jon
+PERSON Robb
+GPE Joffrey
+PERSON Theon
+PERSON Robb
+PERSON Theon
+PERSON Jon
+PERSON Tommy
+--------------------------------------------------------------------
+14
+PERSON Bran Stark
+PERSON Catelyn
+GPE Eddard
+NORP Brans
+DATE the month
+--------------------------------------------------------------------
+15
+ORG Winterfells
+PERSON Arya Stark
+PERSON Stark
+--------------------------------------------------------------------
+16
+PERSON Stark
+PERSON Catelyn
+PERSON Eddard
+PERSON Robb
+GPE Prince Joffrey
+GPE Sansa
+PERSON Arya
+PERSON Sansa
+PERSON Eddard
+PERSON Robert
+PERSON Robert
+PERSON Catelyn
+ORG Queen Cersei
+PERSON Starks
+PERSON Robert
+PERSON Eddard
+PERSON Robert
+PERSON Robert
+PERSON Eddard
+PERSON Arya
+PERSON Cersei
+PERSON Jaime
+--------------------------------------------------------------------
+17
+ORG Eddard
+PERSON Robert
+PERSON Jon Arryn
+PERSON Robert
+PERSON Arryn
+PERSON Eddard
+PERSON Robert
+PERSON Robert
+PERSON Robert
+PERSON Eddard
+PERSON Hand
+PERSON Robert
+ORG Eddard
+PERSON Robert
+PERSON Eddard
+PERSON Eddards
+PERSON Robert
+--------------------------------------------------------------------
+18
+ORDINAL first
+GPE Winterfells
+--------------------------------------------------------------------
+19
+PERSON Ros
+PERSON Ros
+GPE Winterfell
+ORG the Seven Kingdoms
+PERSON Tyrion
+PERSON Ros
+PRODUCT Imp
+PERSON Tyrion
+PERSON Ros
+PERSON Jaime
+ORG Tyrion
+PERSON Starks
+PERSON Jaime
+CARDINAL three
+GPE Winterfell
+PERSON Tyrion Lannister
+PERSON Tyrion
+CARDINAL hundred
+PERSON Chayle
+NORP Valyrian
+PERSON Ayrmidon
+PERSON Tyrion
+ORG Winterfell
+PERSON Sandor Clegane 's
+TIME last night
+PERSON Clegane
+PERSON Winterfell
+PERSON Starks
+ORG Starks
+CARDINAL six
+PERSON Joffrey
+PERSON Sandor
+DATE today
+PERSON Lord Eddard
+PERSON Tyrion
+PERSON Stark
+CARDINAL One
+PERSON Tyrion
+PERSON Mother
+PERSON Joffrey
+ORG Tyrion
+PERSON Lady Stark
+PERSON Tyrion
+PERSON Clegane
+PERSON Tyrion
+GPE Clegane
+ORG Hound
+WORK_OF_ART Tyrion Lannister
+PERSON Sandor Clegane
+ORDINAL first
+DATE today
+TIME morning
+ORG the Guest House
+PERSON Jaime
+PERSON Cersei
+PERSON Robert
+DATE the day
+PERSON Lord Eddard
+PERSON Robert
+PERSON Jaime
+PERSON Jaime
+PERSON Jaime
+PERSON Tyrion
+CARDINAL two
+PERSON Tyrion
+TIME this morning
+GPE Bran
+TIME last night
+PERSON Brandon
+PERSON Tommen
+PERSON Jaime
+PERSON Tyrion
+PERSON Lord Eddard
+PERSON Brandon
+PERSON Jaime
+CARDINAL One
+PERSON Targaryen
+PERSON Cersei
+GPE Tommen
+PERSON Myrcella
+GPE Tommen
+PERSON Jaime
+PERSON Cersei
+PERSON Jaime
+PERSON Tyrion
+DATE four days
+PERSON Myrcella
+PERSON Tyrion
+PERSON Tyrion
+PERSON Jaime
+PERSON Cersei
+PERSON Benjen Stark
+TIME Night
+PERSON Jaime
+GPE Dorne
+GPE Casterly Rock
+PERSON Cersei
+PERSON Myrcella
+TIME morning
+PERSON Jaime Lannister
+PERSON Stark
+ORG Winterfell
+PERSON Robert
+PERSON Robert
+PERSON Jaime
+PERSON Lord Eddard
+PERSON Tyrion
+PERSON Jaime
+PERSON Tyrion
+PERSON Jaime
+PERSON Jaime
+--------------------------------------------------------------------
+20
+PERSON Robert
+PERSON Lyanna Stark
+PERSON Eddard
+PERSON Eddard
+ORG Winterfell
+PERSON Robert
+PERSON Rhaegar Targaryen
+PERSON Eddard
+ORG Targaryens
+PERSON Robert
+--------------------------------------------------------------------
+21
+LOC the Narrow Sea
+PERSON Daenerys Targaryen
+PERSON Viserys
+ORG Magister Illyrio Mopatis
+PERSON Daenerys
+PERSON Illyrio
+PERSON Daenerys
+GPE Illyrio
+PERSON Viserys
+GPE Illyrio
+ORG Viserys
+PERSON Daenerys
+DATE today
+PERSON Viserys
+DATE this day
+PERSON Daenerys
+ORG the Magister Illyrio
+PERSON Viserys
+TIME tonight
+ORG Illyrio
+TIME Tonight
+PERSON Dany
+DATE half a year
+PERSON Dany
+DATE thirteen
+GPE Pentos
+PERSON Viserys
+PERSON Dany
+PERSON Magister Illyrio
+GPE Vaes Dothrak
+LOC the Jade Sea
+PERSON Dany
+PERSON Viserys
+PERSON Khal Drogo
+TIME tonight
+TIME tonight
+PERSON Dany
+TIME tonight
+PERSON Dany
+GPE Pentos
+PERSON Dany
+ORG Khal Drogo 's
+PERSON Dothraki
+PERSON Rhaesh Andahli
+PERSON Westeros
+PERSON Dany
+PERSON Casterly Rock
+GPE Eyrie
+GPE Highgarden
+GPE Arryn
+GPE Dorne
+PERSON Viserys
+CARDINAL eight
+ORG King 's Landing
+ORG Usurper
+PERSON Daenerys
+GPE Dragonstone
+PERSON Rhaegar
+GPE Usurper
+ORG King 's Landing
+ORG Viserys
+PERSON Lannister
+PERSON Stark
+PERSON Rhaegar
+PERSON Kingslayer
+PERSON Father
+ORG Dragonstone
+NORP Targaryen
+PERSON Viserys
+PERSON Dragonstone
+ORG Usurper
+GPE Dragonstone
+ORG House
+GPE Usurper
+TIME one night
+PERSON Willem Darry
+CARDINAL four
+NORP Braavosian
+PERSON Ser Willem
+GPE Dany
+GPE Braavos
+PERSON Dany
+PERSON Ser Willem
+PERSON Dany
+GPE Braavos
+PERSON Myr
+GPE Myr
+GPE Tyrosh
+GPE Qohor
+GPE Volantis
+PERSON Lys
+CARDINAL one
+ORG Usurper
+PERSON Dany
+ORDINAL first
+GPE Usurper
+DATE Years
+FAC Pentos
+PERSON Dany
+PERSON Dragonstone
+ORG King 's Landing
+PERSON Viserys
+PERSON Daenerys
+PERSON Dany
+PERSON Illyrio
+CARDINAL one
+NORP Dothraki
+GPE Pentos
+PERSON Illyrio
+GPE Dany
+PERSON Daenerys
+PRODUCT Targaryen
+PERSON Drogo
+CARDINAL A hundred thousand
+GPE Vaes Dothrak
+CARDINAL two hundred
+PERSON Daenerys
+ORG Viserys
+DATE centuries
+GPE Targaryens
+ORG Aegon the Conqueror
+ORG Viserys
+MONEY a thousand times
+LOC Valyria
+PERSON Targaryens
+ORG Viserys
+NORP Dothraki
+CARDINAL one
+PERSON Magister Illyrio
+PERSON Valyrian
+PERSON Dany
+PERSON Illyrio
+PERSON Khal Drogo
+PERSON Regal
+PERSON Magister Illyrio
+PERSON Viserys
+ORG Illyrio
+PERSON Khal Drogo
+ORDINAL first
+PERSON Valyria
+ORG Drogo
+PERSON Daenerys
+PERSON Khal Drogo
+GPE Pentos
+GPE Illyrio
+CARDINAL Two
+CARDINAL dozen
+PERSON Dany
+GPE Illyrio
+PERSON Viserys
+GPE Dany
+DATE Ten thousand
+CARDINAL ten thousand
+PERSON Tyrell
+PERSON Redwyne
+PERSON Darry
+PERSON Greyjoy
+ORG Usurper
+PERSON Dornishmen
+PERSON Elia
+GPE Illyrio
+PERSON Magister Illyrio
+PERSON Dany
+PERSON Illyrio
+GPE Illyrio
+GPE Usurper
+PERSON Rhaegar
+PERSON Lannister
+PERSON Kingslayer
+PERSON Magister Illyrio
+PERSON Dany
+TIME the night
+PERSON Dany
+EVENT the Battle of the Trident
+PERSON Khal Drogo
+GPE Pentos
+GPE Illyrio
+ORG The Free Cities
+PERSON Dothraki
+PERSON Magister Illyrio
+NORP Dothraki
+PERSON Dany
+GPE Viserys
+PERSON Magister Illyrio 's
+TIME tonight
+PERSON Your Grace
+ORG Usurper
+PERSON Viserys
+PERSON Illyrio
+CARDINAL two
+WORK_OF_ART the Doom of Valyria
+ORG the House Targaryen
+ORG Rhoynar
+ORDINAL First
+PRODUCT Realm
+PERSON Daenerys Stormborn
+PERSON Illyrio Mopatis
+PERSON Magister
+ORG the Free City of Pentos
+ORG Moonlight
+GPE Pentos
+PERSON Myr
+GPE Tyrosh
+GPE Illyrio
+ORG the Summer Isles
+PERSON Daenerys
+PERSON Illyrio
+CARDINAL three
+ORG Drogo
+PERSON Khal Moro
+PERSON Rhogoro
+ORG the Archon of Tyrosh
+PERSON Ser Jorah Mormont
+PERSON Daenerys
+CARDINAL seven
+ORG the High Septon
+GPE Usurper
+PERSON Illyrio
+NORP Tyroshi
+TIME Night
+PERSON Ser Jorah
+PERSON Dany
+CARDINAL two
+ORG Magister Illyrio
+PERSON Dany
+PERSON Viserys
+TIME the night
+PERSON Khal Drogo
+GPE Illyrio
+PERSON Magister Illyrio
+ORG Illyrio
+GPE Drogo
+PERSON Viserys
+PERSON Dothraki
+PERSON Khal Drogo
+ORG Aegon the Dragonlord
+FAC Khal Drogo
+PERSON Viserys
+ORG King 's Landing
+PERSON Dragonstone
+PERSON Dany
+GPE Illyrio
+PERSON Khal Drogo 's
+GPE Drogo
+PERSON Dany
+PERSON Magister Illyrio
+PERSON Khal Drogo
+PERSON Daenerys
+--------------------------------------------------------------------
+22
+PERSON Magister Illyrio
+GPE Daenerys
+GPE Viserys
+PERSON Khal Drogo
+PRODUCT Dothraki
+PERSON Viserys
+ORG Drogo
+GPE Illyrio
+PERSON Dothraki
+PERSON Drogo
+PERSON Viserys
+GPE Drogos
+PERSON Dothraki
+PERSON Drogo
+PERSON Viserys
+ORG Drogo
+CARDINAL one
+PERSON Daenerys
+PERSON Illyrio
+PERSON Daenerys
+GPE Drogo
+PERSON Drogo
+PERSON Viserys
+PERSON Illyrio
+PERSON Daenerys Targaryen
+GPE Pentos
+PERSON Dothraki
+PERSON Drogo
+CARDINAL forty thousand
+GPE Pentos
+GPE Illyrio
+TIME one night
+PERSON Drogo
+PERSON Daenerys
+CARDINAL half
+GPE Pentos
+ORG Khal Drogo
+ORG Viserys
+PERSON Mormont
+PERSON Magister Illyrio
+PERSON Viserys
+DATE tomorrow
+PERSON Dany
+PERSON Illyrio
+ORDINAL first
+ORG Vaes Dothrak
+GPE Usurper
+DATE another few months
+PERSON Ser Jorah
+PERSON Vaes Dothrak
+NORP Dothraki
+PERSON Viserys
+PERSON Mormont
+PERSON Ser Jorah
+PERSON Illyrio
+PERSON Dany
+CARDINAL one
+PERSON Viserys
+PERSON Viserys
+DATE the day
+TIME dusk
+PERSON Dany
+PERSON Khal Drogo
+PERSON Dothraki
+CARDINAL one
+ORG the Free Cities
+PERSON Illyrio
+PERSON Dany
+PERSON Viserys
+PERSON Illyrio
+PERSON Ser Jorah
+PERSON Dany
+ORDINAL first
+PERSON Dany
+PERSON Khal Drogo
+GPE Dothraki
+GPE Pentos
+PERSON Khal Drogo
+GPE Dany
+PERSON Dothraki
+ORG the Free Cities
+ORG the Seven Kingdoms
+NORP Illyrio
+ORG Aegon the Conqueror
+ORDINAL first
+PERSON Drogo
+CARDINAL One
+PERSON Illyrio
+NORP Dothraki
+PERSON Dany
+ORDINAL second
+ORDINAL third
+CARDINAL two
+CARDINAL half
+CARDINAL half
+CARDINAL one
+ORG Dothraki
+PERSON Magister Illyrio
+PERSON Dany
+NORP Dothraki
+DATE the day
+GPE Dany
+PERSON Dothraki
+TIME tonight
+PERSON Khal Drogo
+PERSON Drogo
+PERSON Dany
+ORDINAL first
+PERSON Dany
+PERSON Viserys
+CARDINAL three
+ORG Illyrio
+PERSON Irri
+PERSON Jhiqui
+NORP Dothraki
+PERSON Doreah
+ORG Lysene
+CARDINAL one
+PERSON Illyrio
+PERSON Irri
+GPE Jhiqui
+GPE Dothraki
+PERSON Doreah
+PERSON Illyrio
+ORG the Seven Kingdoms
+PERSON Magister Illyrio
+CARDINAL four
+ORG the Free Cities
+CARDINAL three
+PERSON Dany
+CARDINAL One
+PERSON Dany
+ORG the Shadow Lands
+GPE Asshai
+PERSON Magister Illyrio
+PERSON Dany
+ORG Illyrio
+PERSON Khal Drogo
+CARDINAL three
+PERSON Haggo
+GPE Qotho
+PERSON Magister Illyrio
+PERSON Ser Jorah
+PERSON Khal Drogo
+PERSON Dothraki
+PERSON Khaleesi
+PERSON Magister Illyrio
+PERSON Khal Drogo
+GPE Dothraki
+PERSON Dany
+PERSON Khal Drogo
+GPE Dothraki
+PERSON Magister Illyrio
+PERSON Drogo
+ORG Dothraki
+PERSON Dany
+PERSON Illyrio
+PERSON Ser Jorah Mormont
+PERSON Dany
+ORDINAL first
+ORDINAL first
+PERSON Dany
+PERSON Dothraki
+ORG Dothraki
+PERSON Daenerys
+ORG Magister Illyrio
+PERSON Pentoshi
+GPE Dothraki
+PERSON Dany
+ORDINAL first
+GPE Pentos
+PERSON Dany
+PERSON Khal Drogo
+PERSON Viserys
+PERSON Dany
+CARDINAL thirteen
+PERSON Khal Drogo
+PERSON Drogo
+PERSON Khal Drogo
+PERSON Dany
+PERSON Drogo
+GPE Dothraki
+PERSON Dany
+PERSON Drogo
+PERSON Drogo
+CARDINAL one
+CARDINAL one
+PERSON Dany
+PERSON Drogo
+CARDINAL one
+CARDINAL one
+PERSON Dany
+PERSON Drogo
+PERSON Khal Drogo
+ORDINAL first
+CARDINAL one
+CARDINAL one
+ORDINAL first
+PERSON Dany
+--------------------------------------------------------------------
+23
+PERSON Viserys
+LOC the Narrow Sea
+PERSON Westeros
+GPE Illyrio
+ORG Viserys
+GPE Viserys
+PERSON Viserys
+GPE Illyrio
+PERSON Dothraki
+CARDINAL one
+PERSON Viserys
+LOC Dothraki
+PERSON Illyrio
+PERSON Khal Drogo
+PERSON Viserys
+PERSON Illyrio
+ORG Viserys
+PERSON Viserys
+ORG Drogo
+PERSON Daenerys
+PERSON Viserys
+PERSON Khal Drogo 's
+CARDINAL forty thousand
+PERSON Daenerys
+PERSON Dany
+ORG the Magister Illyrio
+PERSON Viserys
+TIME tonight
+ORG Illyrio
+TIME Tonight
+PERSON Dany
+DATE half a year
+PERSON Dany
+DATE thirteen
+GPE Pentos
+PERSON Viserys
+PERSON Dany
+PERSON Magister Illyrio
+GPE Vaes Dothrak
+LOC the Jade Sea
+PERSON Dany
+PERSON Viserys
+PERSON Khal Drogo
+TIME tonight
+TIME tonight
+PERSON Dany
+TIME tonight
+PERSON Dany
+GPE Pentos
+PERSON Dany
+ORG Khal Drogo 's
+PERSON Dothraki
+PERSON Rhaesh Andahli
+PERSON Westeros
+PERSON Dany
+PERSON Casterly Rock
+GPE Eyrie
+GPE Highgarden
+GPE Arryn
+GPE Dorne
+PERSON Viserys
+CARDINAL eight
+ORG King 's Landing
+ORG Usurper
+PERSON Daenerys
+GPE Dragonstone
+PERSON Rhaegar
+GPE Usurper
+ORG King 's Landing
+ORG Viserys
+PERSON Lannister
+PERSON Stark
+PERSON Rhaegar
+PERSON Kingslayer
+PERSON Father
+ORG Dragonstone
+NORP Targaryen
+PERSON Viserys
+PERSON Dragonstone
+ORG Usurper
+GPE Dragonstone
+ORG House
+GPE Usurper
+TIME one night
+PERSON Willem Darry
+CARDINAL four
+NORP Braavosian
+PERSON Ser Willem
+GPE Dany
+GPE Braavos
+PERSON Dany
+PERSON Ser Willem
+PERSON Dany
+GPE Braavos
+PERSON Myr
+GPE Myr
+GPE Tyrosh
+GPE Qohor
+GPE Volantis
+PERSON Lys
+CARDINAL one
+ORG Usurper
+PERSON Dany
+ORDINAL first
+GPE Usurper
+DATE Years
+FAC Pentos
+PERSON Dany
+PERSON Dragonstone
+ORG King 's Landing
+PERSON Viserys
+PERSON Daenerys
+PERSON Dany
+PERSON Illyrio
+CARDINAL one
+NORP Dothraki
+GPE Pentos
+PERSON Illyrio
+GPE Dany
+PERSON Daenerys
+PRODUCT Targaryen
+PERSON Drogo
+CARDINAL A hundred thousand
+GPE Vaes Dothrak
+CARDINAL two hundred
+PERSON Daenerys
+ORG Viserys
+DATE centuries
+GPE Targaryens
+ORG Aegon the Conqueror
+ORG Viserys
+MONEY a thousand times
+LOC Valyria
+PERSON Targaryens
+ORG Viserys
+NORP Dothraki
+CARDINAL one
+PERSON Magister Illyrio
+PERSON Valyrian
+PERSON Dany
+PERSON Illyrio
+PERSON Khal Drogo
+PERSON Regal
+PERSON Magister Illyrio
+PERSON Viserys
+ORG Illyrio
+PERSON Khal Drogo
+ORDINAL first
+PERSON Valyria
+ORG Drogo
+PERSON Daenerys
+PERSON Khal Drogo
+GPE Pentos
+GPE Illyrio
+CARDINAL Two
+CARDINAL dozen
+PERSON Dany
+GPE Illyrio
+PERSON Viserys
+GPE Dany
+DATE Ten thousand
+CARDINAL ten thousand
+PERSON Tyrell
+PERSON Redwyne
+PERSON Darry
+PERSON Greyjoy
+ORG Usurper
+PERSON Dornishmen
+PERSON Elia
+GPE Illyrio
+PERSON Magister Illyrio
+PERSON Dany
+PERSON Illyrio
+GPE Illyrio
+GPE Usurper
+PERSON Rhaegar
+PERSON Lannister
+PERSON Kingslayer
+PERSON Magister Illyrio
+PERSON Dany
+TIME the night
+PERSON Dany
+EVENT the Battle of the Trident
+PERSON Khal Drogo
+GPE Pentos
+GPE Illyrio
+ORG The Free Cities
+PERSON Dothraki
+PERSON Magister Illyrio
+NORP Dothraki
+PERSON Dany
+GPE Viserys
+PERSON Magister Illyrio 's
+TIME tonight
+PERSON Your Grace
+ORG Usurper
+PERSON Viserys
+PERSON Illyrio
+CARDINAL two
+WORK_OF_ART the Doom of Valyria
+ORG the House Targaryen
+ORG Rhoynar
+ORDINAL First
+PRODUCT Realm
+PERSON Daenerys Stormborn
+PERSON Illyrio Mopatis
+PERSON Magister
+ORG the Free City of Pentos
+ORG Moonlight
+GPE Pentos
+PERSON Myr
+GPE Tyrosh
+GPE Illyrio
+ORG the Summer Isles
+PERSON Daenerys
+PERSON Illyrio
+CARDINAL three
+ORG Drogo
+PERSON Khal Moro
+PERSON Rhogoro
+ORG the Archon of Tyrosh
+PERSON Ser Jorah Mormont
+PERSON Daenerys
+CARDINAL seven
+ORG the High Septon
+GPE Usurper
+PERSON Illyrio
+NORP Tyroshi
+TIME Night
+PERSON Ser Jorah
+PERSON Dany
+CARDINAL two
+ORG Magister Illyrio
+PERSON Dany
+PERSON Viserys
+TIME the night
+PERSON Khal Drogo
+GPE Illyrio
+PERSON Magister Illyrio
+ORG Illyrio
+GPE Drogo
+PERSON Viserys
+PERSON Dothraki
+PERSON Khal Drogo
+ORG Aegon the Dragonlord
+FAC Khal Drogo
+PERSON Viserys
+ORG King 's Landing
+PERSON Dragonstone
+PERSON Dany
+GPE Illyrio
+PERSON Khal Drogo 's
+GPE Drogo
+PERSON Dany
+PERSON Magister Illyrio
+PERSON Khal Drogo
+PERSON Daenerys
+--------------------------------------------------------------------
+24
+GPE Winterfell
+GPE Sansa
+GPE Catelyn
+PERSON Sansa
+GPE Joffreys
+PERSON Sansa
+PERSON Catelyn
+PERSON Sansa
+ORDINAL second
+PERSON Catelyn
+ORG Sansa
+ORG Winterfell
+PERSON Sansa
+GPE Catelyn
+GPE Winterfell
+PERSON Sansa
+PERSON Eddard
+DATE one day
+PERSON Sansas
+PERSON Sansa
+DATE the third day
+PERSON Jeyne Poole
+PERSON Jeyne
+PERSON Sansa
+PERSON Jeyne
+PERSON Sansa
+ORDINAL first
+GPE Maegor
+PERSON Septa Mordane
+TIME late that night
+PERSON Jeyne Poole
+ORG Hound
+ORG the Tower of the Hand
+PERSON Sansa
+ORDINAL second
+PERSON Sansa
+GPE Maegor
+PERSON Jeyne Poole 's
+TIME midday
+ORG Sansa
+ORG the Tower of the Hand
+PERSON Jeyne
+PERSON Jeyne
+PERSON Sansa
+PERSON Prince Joffrey
+DATE the second day
+PERSON Sansa
+EVENT the Great Sept of Baelor on
+FAC Visenya 's Hill
+PERSON Jeyne
+PERSON Robert
+GPE Joffrey
+PERSON Sansa
+GPE Joffrey
+ORDINAL third
+FAC Ser Boros Blount
+ORG Kingsguard
+PERSON Ser Boros
+DATE Today
+WORK_OF_ART Ser Boros
+PERSON Sansa
+WORK_OF_ART Ser Boros
+PERSON Grace
+ORG Lannister
+PERSON Sansa
+ORDINAL first
+EVENT Ser Arys Oakheart
+TIME two mornings
+PERSON Queen Cersei
+PERSON Sansa
+GPE Ser Boros
+GPE Maegor
+PERSON Sansa
+PERSON Queen Cersei
+PERSON Sansa
+WORK_OF_ART Ser Boros
+PERSON Kingsguard
+PERSON Ser Mandon
+PERSON Sansa
+GPE Joffrey
+CARDINAL three
+PERSON Lord Petyr Baelish
+ORG Grand Maester Pycelle
+PERSON Lord Varys
+PERSON Cersei
+PERSON Sansa
+PERSON Sansa
+PERSON Sansa
+PERSON Cersei
+WORK_OF_ART Ser Boros
+PERSON Sansa
+PERSON Jeyne
+PERSON Sansa
+PERSON Sansa
+PERSON Vayon Poole
+PERSON Queen Cersei
+PERSON Sansa
+PERSON Lord Petyr 's
+PERSON Littlefinger
+WORK_OF_ART Ser Boros
+PERSON Sansa
+PERSON Jeyne
+PERSON Lord Petyr
+PERSON Lord Baelish
+PERSON Jeyne
+PERSON Sansa
+PERSON Sansa
+PERSON Cersei
+PERSON Varys
+ORG Grand Maester Pycelle
+PERSON Littlefinger
+PERSON Sweet Sansa
+PERSON Queen Cersei
+PERSON Sansa
+PERSON Littlefinger
+ORG Joffrey
+ORG Sansa
+ORG Grand Maester Pycelle
+PERSON Lord Eddard
+PERSON Robert
+PERSON Sansa
+PERSON Stannis
+PERSON Robert
+PERSON Sansa
+PRODUCT Joffrey
+PERSON Cersei
+PERSON Sansa
+PERSON Arya
+PERSON Septa Mordane
+PERSON Joffrey
+GPE Winterfell
+PERSON Joff
+PERSON Father
+ORG King 's Landing
+PERSON Prince Joffrey
+GPE Sansa
+PERSON Lord Eddard
+PERSON Cersei
+PERSON Ser Arys
+GPE Maegor
+ORG Joffrey
+PERSON Queen Cersei
+GPE Varys
+ORG Grand Maester Pycelle
+DATE ten years
+PERSON Sansa
+ORG Joffrey
+ORG Varys
+WORK_OF_ART Cat at the
+ORG Sansa
+ORG Joffrey
+PERSON Lord Varys
+PERSON Arya
+PERSON Sansa
+PERSON Septa Mordane
+ORG Joffrey
+PERSON Cersei
+ORG Grand Maester Pycelle
+PERSON Lord Eddard
+CARDINAL three
+PERSON Lord Petyr
+PERSON Lady Catelyn
+ORG Tullys
+PERSON Sansa
+PERSON Sansa
+NORP Joffrey
+PERSON Robb
+PERSON Sansa
+PERSON Lord Eddard
+PERSON Sansa
+PERSON Joffrey
+PERSON Lady Catelyn
+ORG Grand Maester Pycelle
+ORG King 's Landing
+ORG Joffrey
+EVENT the Great Sept of Baelor
+ORG Sansa
+PERSON Sansa
+WORK_OF_ART Grand Maester Pycelle
+PERSON Sansa
+GPE Winterfell
+ORG the Free Cities
+DATE a few years
+PERSON Joffrey
+PERSON Joff
+PERSON Father
+PERSON Mother
+PERSON Robb
+PERSON Sansa
+PERSON Cersei Lannister
+DATE today
+CARDINAL four
+ORG Winterfell
+ORG Lady Lysa Arryn
+PERSON Lord Hoster Tully
+PERSON Varys
+PERSON House Stark
+PERSON Jeyne Poole
+PERSON Ser Mandon Moore
+PERSON Sansa
+GPE Maegor
+GPE Jeyne
+CARDINAL one
+NORP Florian
+PERSON Jonquil
+PERSON Lady Shella
+ORG the Rainbow Knight
+PERSON Aemon
+PERSON Sansa
+--------------------------------------------------------------------
+25
+PERSON Robert
+GPE Cerseis
+--------------------------------------------------------------------
+26
+PERSON Jon Snow
+PERSON Winterfell
+PERSON Benjen Stark
+PERSON Jon
+PERSON Benjen
+PERSON Jon
+ORG the Nights Watch
+PERSON Jon
+PERSON Benjen
+PERSON Jon
+PERSON Benjen
+PERSON Benjen
+PERSON Tyrion Lannister
+PERSON Jon
+PERSON Wall
+PERSON Jon
+PERSON Jons
+ORG Tyrion
+PERSON Jon
+PERSON Tyrion
+PERSON Jon Snow
+PERSON White
+PERSON Stark
+PERSON Baratheon
+PERSON Lannister
+CARDINAL hundred
+ORDINAL fourth
+PERSON Jon
+PERSON Lord
+PERSON Lady Stark
+PERSON Jon
+PERSON Jon
+PERSON Jon
+ORDINAL first
+CARDINAL fourteen
+PERSON Jon
+PERSON Robert
+PERSON Lady Stark
+PERSON Jon
+PERSON Robert Baratheon
+PERSON Jon
+CARDINAL half
+ORDINAL first
+DATE three - year - old
+PERSON Jon
+PERSON Robb
+PERSON Stark
+PERSON Jon
+PERSON Robb
+PERSON Robb
+CARDINAL half
+PERSON Arya
+PERSON Tommen
+PERSON Sansa
+DATE two years
+ORG Joffrey Baratheon
+DATE twelve
+PERSON Jon
+PERSON Robb
+PERSON Jon
+PERSON Prince Joffrey
+PERSON Sansa
+PERSON Jon
+ORG Joffrey
+ORG Winterfell
+FAC Great Hall
+GPE Casterly Rock
+PERSON Ser Jaime Lannister
+PERSON Queen Cersei
+ORG House
+WORK_OF_ART Kingslayer
+PERSON Jon
+CARDINAL half
+ORG Tyrion Lannister
+PERSON Lord Tywin 's
+PERSON Cersei
+PERSON Jaime
+PERSON Tyrion
+CARDINAL half
+CARDINAL One
+CARDINAL one
+CARDINAL one
+PERSON Jon
+PERSON Benjen Stark
+TIME Night
+FAC Theon Greyjoy
+PERSON Benjen
+PERSON Jon
+PERSON Theon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+CARDINAL One
+PERSON Jon
+CARDINAL three
+CARDINAL one
+PERSON Jon
+PERSON Jon
+PERSON Ben
+PERSON Jon
+CARDINAL One
+PERSON Benjen Stark
+PERSON Jon
+PERSON Summerwine
+PERSON Jon
+PERSON Jon
+PERSON Ben Stark
+ORDINAL first
+ORG Night
+TIME Tonight
+PERSON Benjen
+PERSON Jon
+PERSON Wall
+PERSON Benjen Stark
+PERSON Jon
+PERSON Jon
+TIME tonight
+PERSON Lady Stark
+PERSON Jon
+PERSON Jon
+CARDINAL Two
+PERSON Jon
+PERSON Benjen
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Robb
+PERSON Hullen
+PERSON Jon
+PERSON Uncle Benjen
+PERSON Jon
+PERSON Jon
+CARDINAL fifteen
+PERSON Maester Luwin
+PERSON Benjen
+PERSON Jon
+PERSON Daeren Targaryen
+PERSON Dorne
+PERSON Jon
+ORG The Young Dragon
+CARDINAL one
+DATE summer
+CARDINAL ten thousand
+PERSON Daeren Targaryen
+PERSON Jon
+TIME Night
+PERSON Robb
+PERSON Winterfell
+PERSON Warden
+LOC North
+PERSON Robb
+PERSON Sansa
+PERSON Jon
+ORG Night
+PERSON Jon
+DATE fourteen
+PERSON Benjen
+PERSON Jon
+PERSON Benjen
+PERSON Jon
+PERSON Benjen Stark
+PERSON Jon
+PERSON Jon
+PERSON Laughter
+PERSON Jon
+CARDINAL half
+PERSON Jon
+PERSON Jon
+PERSON Winterfell
+TIME tonight
+PERSON Jon
+PERSON Jon
+FAC the Great Hall
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+WORK_OF_ART Tyrion Lannister
+PERSON Lannister
+PERSON Jon
+PERSON Lannister
+PERSON Ghost
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Ned Stark 's
+PERSON Jon
+PERSON Lannister
+PERSON Jon
+WORK_OF_ART Half brothers
+PERSON Jon
+PERSON Jon
+PERSON Lannister
+PERSON Jon
+PERSON Jon
+--------------------------------------------------------------------
+27
+PERSON Benjen
+PERSON Eddard
+PERSON Benjen
+PERSON Eddard
+PERSON Benjen
+PERSON Eddard
+PERSON Benjen
+NORP Walkers
+WORK_OF_ART Winter is Coming
+PERSON Benjen
+PERSON Robb
+--------------------------------------------------------------------
+28
+PERSON Robert
+PERSON Cersei
+PERSON Catelyn
+PERSON Sansa
+NORP Cersei
+GPE Sansas
+GPE Catelyn
+GPE Sansas
+ORG Sansa
+PERSON Cersei
+PERSON Catelyn
+ORG Sansa
+PERSON Catelyn
+PERSON Sansa
+GPE Sansa
+DATE the third day
+PERSON Jeyne Poole
+PERSON Jeyne
+PERSON Sansa
+PERSON Jeyne
+PERSON Sansa
+ORDINAL first
+GPE Maegor
+PERSON Septa Mordane
+TIME late that night
+PERSON Jeyne Poole
+ORG Hound
+ORG the Tower of the Hand
+PERSON Sansa
+ORDINAL second
+PERSON Sansa
+GPE Maegor
+PERSON Jeyne Poole 's
+TIME midday
+ORG Sansa
+ORG the Tower of the Hand
+PERSON Jeyne
+PERSON Jeyne
+PERSON Sansa
+PERSON Prince Joffrey
+DATE the second day
+PERSON Sansa
+EVENT the Great Sept of Baelor on
+FAC Visenya 's Hill
+PERSON Jeyne
+PERSON Robert
+GPE Joffrey
+PERSON Sansa
+GPE Joffrey
+ORDINAL third
+FAC Ser Boros Blount
+ORG Kingsguard
+PERSON Ser Boros
+DATE Today
+WORK_OF_ART Ser Boros
+PERSON Sansa
+WORK_OF_ART Ser Boros
+PERSON Grace
+ORG Lannister
+PERSON Sansa
+ORDINAL first
+EVENT Ser Arys Oakheart
+TIME two mornings
+PERSON Queen Cersei
+PERSON Sansa
+GPE Ser Boros
+GPE Maegor
+PERSON Sansa
+PERSON Queen Cersei
+PERSON Sansa
+WORK_OF_ART Ser Boros
+PERSON Kingsguard
+PERSON Ser Mandon
+PERSON Sansa
+GPE Joffrey
+CARDINAL three
+PERSON Lord Petyr Baelish
+ORG Grand Maester Pycelle
+PERSON Lord Varys
+PERSON Cersei
+PERSON Sansa
+PERSON Sansa
+PERSON Sansa
+PERSON Cersei
+WORK_OF_ART Ser Boros
+PERSON Sansa
+PERSON Jeyne
+PERSON Sansa
+PERSON Sansa
+PERSON Vayon Poole
+PERSON Queen Cersei
+PERSON Sansa
+PERSON Lord Petyr 's
+PERSON Littlefinger
+WORK_OF_ART Ser Boros
+PERSON Sansa
+PERSON Jeyne
+PERSON Lord Petyr
+PERSON Lord Baelish
+PERSON Jeyne
+PERSON Sansa
+PERSON Sansa
+PERSON Cersei
+PERSON Varys
+ORG Grand Maester Pycelle
+PERSON Littlefinger
+PERSON Sweet Sansa
+PERSON Queen Cersei
+PERSON Sansa
+PERSON Littlefinger
+ORG Joffrey
+ORG Sansa
+ORG Grand Maester Pycelle
+PERSON Lord Eddard
+PERSON Robert
+PERSON Sansa
+PERSON Stannis
+PERSON Robert
+PERSON Sansa
+PRODUCT Joffrey
+PERSON Cersei
+PERSON Sansa
+PERSON Arya
+PERSON Septa Mordane
+PERSON Joffrey
+GPE Winterfell
+PERSON Joff
+PERSON Father
+ORG King 's Landing
+PERSON Prince Joffrey
+GPE Sansa
+PERSON Lord Eddard
+PERSON Cersei
+PERSON Ser Arys
+GPE Maegor
+ORG Joffrey
+PERSON Queen Cersei
+GPE Varys
+ORG Grand Maester Pycelle
+DATE ten years
+PERSON Sansa
+ORG Joffrey
+ORG Varys
+WORK_OF_ART Cat at the
+ORG Sansa
+ORG Joffrey
+PERSON Lord Varys
+PERSON Arya
+PERSON Sansa
+PERSON Septa Mordane
+ORG Joffrey
+PERSON Cersei
+ORG Grand Maester Pycelle
+PERSON Lord Eddard
+CARDINAL three
+PERSON Lord Petyr
+PERSON Lady Catelyn
+ORG Tullys
+PERSON Sansa
+PERSON Sansa
+NORP Joffrey
+PERSON Robb
+PERSON Sansa
+PERSON Lord Eddard
+PERSON Sansa
+PERSON Joffrey
+PERSON Lady Catelyn
+ORG Grand Maester Pycelle
+ORG King 's Landing
+ORG Joffrey
+EVENT the Great Sept of Baelor
+ORG Sansa
+PERSON Sansa
+WORK_OF_ART Grand Maester Pycelle
+PERSON Sansa
+GPE Winterfell
+ORG the Free Cities
+DATE a few years
+PERSON Joffrey
+PERSON Joff
+PERSON Father
+PERSON Mother
+PERSON Robb
+PERSON Sansa
+PERSON Cersei Lannister
+DATE today
+CARDINAL four
+ORG Winterfell
+ORG Lady Lysa Arryn
+PERSON Lord Hoster Tully
+PERSON Varys
+PERSON House Stark
+PERSON Jeyne Poole
+PERSON Ser Mandon Moore
+PERSON Sansa
+GPE Maegor
+GPE Jeyne
+CARDINAL one
+NORP Florian
+PERSON Jonquil
+PERSON Lady Shella
+ORG the Rainbow Knight
+PERSON Aemon
+PERSON Sansa
+--------------------------------------------------------------------
+29
+PERSON Jaime Lannister
+PERSON Eddard Stark
+PERSON Jaime
+PERSON Eddard
+PERSON Robert
+ORG Eddard
+PERSON Eddard
+PERSON Jaime
+PERSON Eddard
+PERSON Jaime
+PERSON Eddard
+--------------------------------------------------------------------
+30
+ORG Sansa
+GPE Robbs
+PERSON Catelyn
+PERSON Robbs
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+PERSON Sansa
+PERSON Lady Catelyn
+PERSON Arya
+PERSON Septa Mordane
+DATE today
+PERSON Arya
+PERSON Myrcella
+PERSON Sansa
+PERSON Beth Cassel
+PERSON Ser Rodrik 's
+PERSON Jeyne Poole
+PERSON Arya
+PERSON Jeyne
+PERSON Sansa
+PERSON Beth
+PERSON Arya
+PERSON Jeyne
+PERSON Septa Mordane
+PERSON Myrcella
+PERSON Sansa
+PERSON Arya
+ORG Joffrey
+PERSON Sansa
+PERSON Arya
+PERSON Jeyne
+PERSON Winterfell
+ORG Sansa
+PERSON Beth
+ORG Sansa
+PERSON Sansa
+PERSON Arya
+PERSON Beth
+PERSON Sansa
+GPE Arya
+PERSON Prince Joff
+PERSON Jon
+PERSON Arya
+PERSON Sansa
+PERSON Poor Jon
+PERSON Arya
+TIME afternoon
+ORG Septa Mordane
+CARDINAL half
+PERSON Arya
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+GPE Sansa
+PERSON Arya
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Jeyne
+PERSON Arya
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Myrcella
+PERSON Myrcella
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+DATE two years
+PERSON Arya
+PERSON Sansa
+PERSON Sansa
+ORG Tullys
+PERSON Arya
+PERSON Jeyne
+CARDINAL one
+PERSON Arya
+PERSON Sansa
+PERSON Prince Joff
+PERSON Arya
+PERSON Nymeria
+GPE Arya
+PERSON Arya
+PERSON Nymeria
+PERSON Mother
+PERSON Arya
+PERSON Nymeria
+PERSON Arya
+CARDINAL two
+PERSON Arya
+PERSON Rhoyne
+PERSON Sansa
+PERSON Arya
+PERSON Nymeria
+ORG Septa Mordane
+PERSON Arya
+PERSON Robb
+PERSON Nymeria
+PERSON Jon
+CARDINAL one
+PERSON Nymeria
+PERSON Jon
+PERSON Bran
+PERSON Prince Tommen
+PERSON Ser Rodrik Cassel
+CARDINAL A dozen
+PERSON Robb
+PERSON Theon Greyjoy
+ORG House
+PERSON Arya
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Robb
+PERSON Sansa
+PERSON Bran
+PERSON Rickon
+PERSON Tullys
+PERSON Arya
+PERSON Jon
+PERSON Jon
+PERSON Arya
+ORDINAL second
+DATE today
+PERSON Arya
+GPE Tommen
+CARDINAL nine
+PERSON Jon
+DATE fourteen - year - old
+PERSON Arya
+PERSON Jon
+PERSON Tommen
+PERSON Jon
+ORDINAL first
+PERSON Lannister
+PERSON Baratheon
+PERSON Jon
+PERSON Arya
+ORG House
+GPE Lannister
+PERSON Jon
+ORG House
+PERSON Arya
+PERSON Jon
+PERSON Wed Tully
+PERSON Stark
+PERSON Jon
+PERSON Prince Tommen
+PERSON Lew
+LOC Donnis
+PERSON Robb
+PERSON Robb
+PERSON Rodrik
+PERSON Ser Rodrik
+PERSON Theon Greyjoy
+PERSON Robb
+ORG Starks
+PERSON Joff
+PERSON Robb
+PERSON Joffrey
+PERSON Jon
+PERSON Arya
+PERSON Ser Rodrik
+PERSON Robb
+PERSON Robb
+PERSON Arya
+WORK_OF_ART Master - at - arms of Winterfell
+GPE Clegane
+PERSON Ser Rodrik
+PERSON Robb
+CARDINAL Fourteen
+PERSON Robb
+CARDINAL twelve
+PERSON Robb
+PERSON Rodrik
+PERSON Stark
+PERSON Lannister
+PERSON Robb
+PERSON Arya
+PERSON Theon Greyjoy
+PERSON Robb
+PERSON Ser Rodrik
+GPE Tommen
+ORG Lannisters
+PERSON Robb
+PERSON Ser Rodrik 's
+PERSON Theon
+PERSON Robb
+PERSON Jon
+PERSON Arya
+PERSON Jon
+PERSON Septa Mordane
+DATE winter
+DATE spring
+PERSON Arya
+PERSON Jon
+PERSON Nymeria
+PERSON Arya
+PERSON Jon
+ORG Septa Mordane
+PERSON Septa Mordane
+--------------------------------------------------------------------
+31
+PERSON Catelyn
+PERSON Eddard
+PERSON Robert
+PERSON Catelyn
+PERSON Eddard
+PERSON Robert
+PERSON Maester Luwin
+PERSON Catelyn
+PERSON Lysa
+PERSON Catelyn
+GPE Eyrie
+ORG House Arryn
+LOC Vale
+PERSON Catelyn
+PERSON Catelyn
+ORG Eddard
+PERSON Lysa
+ORG Lannisters
+PERSON King Robert
+PERSON Jon Arryns
+PERSON Lysa
+PERSON Vale
+PERSON Luwin
+PERSON Robert
+PERSON Eddard
+PERSON Eddard
+PERSON Catelyn
+ORG Eddard
+PERSON Robert
+PERSON Eddard
+PERSON Luwin
+GPE Winterfell
+PERSON Catelyn
+PERSON Catelyn
+PERSON Riverrun
+PERSON Lysa
+PERSON Edmure
+PERSON Ned
+PERSON Starks
+PERSON Ned
+CARDINAL thousand
+CARDINAL one
+PERSON Catelyn
+GPE Riverrun
+DATE fifteen long years
+DATE three years
+PERSON Rickon
+PERSON Ned
+PERSON Catelyn
+PERSON Robert
+PERSON Hand
+PERSON Ned
+PERSON Robert
+ORG Pride
+PERSON Robert
+PERSON Ned
+PERSON Dorne
+PERSON Catelyn
+PERSON Sansa
+CARDINAL only eleven
+PERSON Ned
+PERSON Brandon
+PERSON Ned
+PERSON Brandon
+PERSON Brandon
+PERSON Brandon
+PERSON Winterfell
+ORG King 's
+PERSON Catelyn
+PERSON Brandon
+PERSON Ned
+PERSON Catelyn
+PERSON Eddard Stark
+PERSON Brandon
+PERSON Ned
+PERSON Desmond
+PERSON Maester Luwin
+PERSON Ned
+PERSON Catelyn
+PERSON Ned
+PERSON Maester Luwin
+PERSON Stark
+PERSON Luwin
+PERSON Catelyn
+PERSON Maester Luwin
+PERSON Ned
+PERSON Ned
+PERSON Catelyn
+PERSON Myr
+PERSON Myr
+PERSON Ned
+PERSON Catelyn
+PERSON Maester Luwin
+PERSON Catelyn
+PERSON Maester Luwin
+PERSON Ned
+PERSON Luwin
+PERSON Catelyn
+PERSON Luwin
+PERSON Ned
+GPE Catelyn
+ORG House
+GPE Lysa
+PERSON Ned
+PERSON Ned
+PERSON Catelyn
+ORDINAL first
+PERSON Lysa
+PERSON Catelyn
+PERSON Catelyn
+PERSON Maester Luwin
+PERSON Ned
+PERSON Catelyn
+PERSON Catelyn
+PERSON Ned
+PERSON Lysa
+PERSON Jon Arryn
+WORK_OF_ART The Lannisters
+PERSON Ned
+PERSON Catelyn
+PERSON Lysa
+PERSON Catelyn
+PERSON Robert
+PERSON Hand
+PERSON Ned
+PERSON Luwin
+PERSON Lord Arryn 's
+PERSON Lady Arryn
+PERSON Ned
+PERSON Catelyn
+ORDINAL First
+PERSON Robert
+WORK_OF_ART The Others take both of you
+PERSON Ned
+PERSON Eddard Stark
+PERSON Maester Luwin
+PERSON Ned
+PERSON Catelyn
+GPE Winterfell
+PERSON Ned
+PERSON Robert
+PERSON Stark
+GPE Winterfell
+PERSON Robb
+DATE fourteen
+PERSON Maester Luwin
+PERSON Catelyn
+PERSON Ned
+PERSON Rickon
+PERSON Robb
+PERSON Catelyn
+ORG Joffrey
+PERSON Arya
+DATE a few years
+PERSON Catelyn
+ORG Arya
+PERSON Ned
+EVENT Winterfell
+TIME eight
+PERSON Ned
+PERSON Robb
+PERSON Robert
+ORG House
+PERSON Catelyn
+CARDINAL four
+PERSON Ned
+PERSON Robb
+PERSON Rickon
+PERSON Winterfell
+PERSON Bran
+PERSON Ned
+PERSON Jon Snow
+PERSON Catelyn
+PERSON Ned
+PERSON Catelyn
+DATE the first year
+PERSON Ned
+DATE that year
+PERSON Ned
+GPE Riverrun
+PERSON Robb
+PERSON Starks
+PERSON Ned
+PERSON Catelyn
+GPE Winterfell
+PERSON Jon
+PERSON Ned
+PERSON Catelyn
+PERSON Arthur Dayne
+ORG Sword
+CARDINAL seven
+GPE Aerys
+PERSON Ned
+PERSON Ser Arthur 's
+PERSON Starfall
+TIME one night
+ORG Catelyn
+PERSON Ned
+PERSON Jon
+DATE that day
+PERSON Ashara Dayne 's
+GPE Winterfell
+PERSON Jon
+PERSON Ned
+PERSON Catelyn
+CARDINAL one
+PERSON Jon
+PERSON Ned
+PERSON Jon
+PERSON Ned
+PERSON Jon
+PERSON Robb
+PERSON Ned
+PERSON Catelyn
+PERSON Ned
+ORG Winterfell
+PERSON Ned
+PERSON Catelyn
+PERSON Robert
+CARDINAL a dozen
+PERSON Ned
+PERSON Lannister
+PERSON Catelyn
+PERSON Maester Luwin
+PERSON Benjen
+PERSON Jon
+PERSON Ned
+TIME Night
+PERSON Catelyn
+PERSON Ned
+PERSON Benjen Stark
+PERSON Jon
+ORG Catelyn
+ORG Winterfell
+PERSON Maester Luwin
+TIME Night
+PERSON Ned
+PERSON Jon
+CARDINAL fourteen
+PERSON Catelyn
+CARDINAL three
+PERSON Ned
+PERSON Maester Luwin
+PERSON Ben
+PERSON Jon
+PERSON Jon
+--------------------------------------------------------------------
+32
+GPE Pentos
+GPE Khal Drogo
+GPE Daenerys
+PERSON Viserys
+GPE Westeros
+PERSON Illyrio
+PERSON Dothraki
+PERSON Viserys
+CARDINAL Two
+CARDINAL two
+ORDINAL first
+ORG Illyrio
+ORG Viserys
+PERSON Daenerys
+PERSON Drogo
+PERSON Drogo
+WORK_OF_ART Jorah the Andal
+GPE Daeneryss
+PERSON Ser Jorah Mormont
+ORG Bear Island
+PERSON Daenerys
+GPE Westeros
+PERSON Viserys
+PERSON Illyrio
+CARDINAL three
+ORG Daenerys
+ORG the Shadow Lands
+GPE Asshai
+PERSON Daenerys
+PERSON Drogo
+PERSON Daenerys
+PERSON Jorah
+GPE Dothraki
+PERSON Drogo
+PERSON Viserys
+GPE Pentos
+PERSON Dothraki
+PERSON Drogo
+CARDINAL forty thousand
+GPE Pentos
+GPE Illyrio
+TIME one night
+PERSON Drogo
+PERSON Daenerys
+CARDINAL half
+GPE Pentos
+ORG Khal Drogo
+ORG Viserys
+PERSON Mormont
+PERSON Magister Illyrio
+PERSON Viserys
+DATE tomorrow
+PERSON Dany
+PERSON Illyrio
+ORDINAL first
+ORG Vaes Dothrak
+GPE Usurper
+DATE another few months
+PERSON Ser Jorah
+PERSON Vaes Dothrak
+NORP Dothraki
+PERSON Viserys
+PERSON Mormont
+PERSON Ser Jorah
+PERSON Illyrio
+PERSON Dany
+CARDINAL one
+PERSON Viserys
+PERSON Viserys
+DATE the day
+TIME dusk
+PERSON Dany
+PERSON Khal Drogo
+PERSON Dothraki
+CARDINAL one
+ORG the Free Cities
+PERSON Illyrio
+PERSON Dany
+PERSON Viserys
+PERSON Illyrio
+PERSON Ser Jorah
+PERSON Dany
+ORDINAL first
+PERSON Dany
+PERSON Khal Drogo
+GPE Dothraki
+GPE Pentos
+PERSON Khal Drogo
+GPE Dany
+PERSON Dothraki
+ORG the Free Cities
+ORG the Seven Kingdoms
+NORP Illyrio
+ORG Aegon the Conqueror
+ORDINAL first
+PERSON Drogo
+CARDINAL One
+PERSON Illyrio
+NORP Dothraki
+PERSON Dany
+ORDINAL second
+ORDINAL third
+CARDINAL two
+CARDINAL half
+CARDINAL half
+CARDINAL one
+ORG Dothraki
+PERSON Magister Illyrio
+PERSON Dany
+NORP Dothraki
+DATE the day
+GPE Dany
+PERSON Dothraki
+TIME tonight
+PERSON Khal Drogo
+PERSON Drogo
+PERSON Dany
+ORDINAL first
+PERSON Dany
+PERSON Viserys
+CARDINAL three
+ORG Illyrio
+PERSON Irri
+PERSON Jhiqui
+NORP Dothraki
+PERSON Doreah
+ORG Lysene
+CARDINAL one
+PERSON Illyrio
+PERSON Irri
+GPE Jhiqui
+GPE Dothraki
+PERSON Doreah
+PERSON Illyrio
+ORG the Seven Kingdoms
+PERSON Magister Illyrio
+CARDINAL four
+ORG the Free Cities
+CARDINAL three
+PERSON Dany
+CARDINAL One
+PERSON Dany
+ORG the Shadow Lands
+GPE Asshai
+PERSON Magister Illyrio
+PERSON Dany
+ORG Illyrio
+PERSON Khal Drogo
+CARDINAL three
+PERSON Haggo
+GPE Qotho
+PERSON Magister Illyrio
+PERSON Ser Jorah
+PERSON Khal Drogo
+PERSON Dothraki
+PERSON Khaleesi
+PERSON Magister Illyrio
+PERSON Khal Drogo
+GPE Dothraki
+PERSON Dany
+PERSON Khal Drogo
+GPE Dothraki
+PERSON Magister Illyrio
+PERSON Drogo
+ORG Dothraki
+PERSON Dany
+PERSON Illyrio
+PERSON Ser Jorah Mormont
+PERSON Dany
+ORDINAL first
+ORDINAL first
+PERSON Dany
+PERSON Dothraki
+ORG Dothraki
+PERSON Daenerys
+ORG Magister Illyrio
+PERSON Pentoshi
+GPE Dothraki
+PERSON Dany
+ORDINAL first
+GPE Pentos
+PERSON Dany
+PERSON Khal Drogo
+PERSON Viserys
+PERSON Dany
+CARDINAL thirteen
+PERSON Khal Drogo
+PERSON Drogo
+PERSON Khal Drogo
+PERSON Dany
+PERSON Drogo
+GPE Dothraki
+PERSON Dany
+PERSON Drogo
+PERSON Drogo
+CARDINAL one
+CARDINAL one
+PERSON Dany
+PERSON Drogo
+CARDINAL one
+CARDINAL one
+PERSON Dany
+PERSON Drogo
+PERSON Khal Drogo
+ORDINAL first
+CARDINAL one
+CARDINAL one
+ORDINAL first
+PERSON Dany
+--------------------------------------------------------------------
+33
+PERSON Drogo
+PERSON Daenerys
+ORG Drogo
+PERSON Daenerys
+--------------------------------------------------------------------
+34
+PERSON Sandor Clegane
+PERSON Sandor
+PERSON Sandor
+PERSON Robert
+PERSON Eddard
+PERSON Eddard
+PERSON Robert
+PERSON Robert
+PERSON Robert
+PERSON Eddard
+PERSON Eddard
+PERSON Bran
+ORG Winterfell
+PERSON Tyrion Lannister
+PERSON Tyrion
+CARDINAL hundred
+PERSON Chayle
+NORP Valyrian
+PERSON Ayrmidon
+PERSON Tyrion
+ORG Winterfell
+PERSON Sandor Clegane 's
+TIME last night
+PERSON Clegane
+PERSON Winterfell
+PERSON Starks
+ORG Starks
+CARDINAL six
+PERSON Joffrey
+PERSON Sandor
+DATE today
+PERSON Lord Eddard
+PERSON Tyrion
+PERSON Stark
+CARDINAL One
+PERSON Tyrion
+PERSON Mother
+PERSON Joffrey
+ORG Tyrion
+PERSON Lady Stark
+PERSON Tyrion
+PERSON Clegane
+PERSON Tyrion
+GPE Clegane
+ORG Hound
+WORK_OF_ART Tyrion Lannister
+PERSON Sandor Clegane
+ORDINAL first
+DATE today
+TIME morning
+ORG the Guest House
+PERSON Jaime
+PERSON Cersei
+PERSON Robert
+DATE the day
+PERSON Lord Eddard
+PERSON Robert
+PERSON Jaime
+PERSON Jaime
+PERSON Jaime
+PERSON Tyrion
+CARDINAL two
+PERSON Tyrion
+TIME this morning
+GPE Bran
+TIME last night
+PERSON Brandon
+PERSON Tommen
+PERSON Jaime
+PERSON Tyrion
+PERSON Lord Eddard
+PERSON Brandon
+PERSON Jaime
+CARDINAL One
+PERSON Targaryen
+PERSON Cersei
+GPE Tommen
+PERSON Myrcella
+GPE Tommen
+PERSON Jaime
+PERSON Cersei
+PERSON Jaime
+PERSON Tyrion
+DATE four days
+PERSON Myrcella
+PERSON Tyrion
+PERSON Tyrion
+PERSON Jaime
+PERSON Cersei
+PERSON Benjen Stark
+TIME Night
+PERSON Jaime
+GPE Dorne
+GPE Casterly Rock
+PERSON Cersei
+PERSON Myrcella
+TIME morning
+PERSON Jaime Lannister
+PERSON Stark
+ORG Winterfell
+PERSON Robert
+PERSON Robert
+PERSON Jaime
+PERSON Lord Eddard
+PERSON Tyrion
+PERSON Jaime
+PERSON Tyrion
+PERSON Jaime
+PERSON Jaime
+--------------------------------------------------------------------
+35
+CARDINAL one
+ORG Winterfells
+PERSON Jaime
+PERSON Cersei
+PERSON Jaime
+PERSON Jaime
+PERSON Bran
+CARDINAL ten
+PERSON Jaime
+QUANTITY dozens of feet
+--------------------------------------------------------------------
