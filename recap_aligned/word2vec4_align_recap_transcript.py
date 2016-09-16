@@ -2,7 +2,9 @@
 ##
 ## Align transcripts with scene recaps using DTW.
 ## Script forked from: https://gist.github.com/hbredin/a372df52a748f7f00dd0
-## Distance #5 - word2vec comparing individual words, keep min dist for comparison
+## Distance #8 - word2vec with added transcripts context (moving window) but
+## only using pos selected words (noun, verb, etc) based on distance #5
+## (word2vec with individual words)
 ##
 ################################################################################
 
@@ -87,21 +89,59 @@ def fancy_dist(s_vec_matrix, t_vec_matrix):
 # It takes the distances between the word vectors for words that are in
 # each scene and transcript
 def createDistanceMatrix(scene, transcript):
+    # look at words that only have one of these parts of speech
+    pos = ['NOUN', 'VERB']
+
     dist_matrix  = []
     s_vec_matrix = {}
 
     # make vector matrices for each scene
+    s_vectors = []
     for sidx, s in enumerate(scene):
         s = unicode(s[0], encoding="utf-8")
         scene_words = nlp(s)
-        s_vec_matrix[sidx] = np.array([s_word.vector for s_word in scene_words])
+        for word in scene_words:
+            if any(p in word.pos_ for p in pos):
+                print "scene", word, word.pos_
+                s_vectors.append(word.vector)
+        s_vec_matrix[sidx] = np.array(s_vectors)
 
-    # make vector matrices for each transcript
+    # make vector matrices for each transcript (include transcript before and after to give more context to utterance)
+    t_pre = None
+    t_nxt = None
+    t_len = len(transcript)
+    pos_vectors = []
+    pos_vectors_pre = []
+    pos_vectors_nxt = []
     t_vec_matrix = {}
     for tidx, t in enumerate(transcript):
+        if t_pre is None:
+            t_pre = t
+        else:
+            t_pre = transcript[tidx - 1]
+        if tidx + 1 == t_len:
+            t_nxt = t
+        else:
+            t_nxt = transcript[tidx + 1]
         t = unicode(t[0], encoding="utf-8")
+        t_pre = unicode(t_pre[0], encoding="utf-8")
+        t_nxt = unicode(t_nxt[0], encoding="utf-8")
         trans_words = nlp(t)
-        t_vec_matrix[tidx] = np.array([t_word.vector for t_word in trans_words])
+        for word in trans_words:
+            if any(p in word.pos_ for p in pos):
+                print "transcript", word, word.pos_
+                pos_vectors.append(word.vector)
+        trans_words_pre = nlp(t_pre)
+        for word in trans_words_pre:
+            if any(p in word.pos_ for p in pos):
+                print "transcript", word, word.pos_
+                pos_vectors_pre.append(word.vector)
+        trans_words_nxt = nlp(t_nxt)
+        for word in trans_words_nxt:
+            if any(p in word.pos_ for p in pos):
+                print "transcript", word, word.pos_
+                pos_vectors_nxt.append(word.vector)
+        t_vec_matrix[tidx] = np.array(pos_vectors + pos_vectors_pre + pos_vectors_nxt)
 
 
     # get distance of most similar word for scene and transcript
@@ -119,11 +159,11 @@ def createDistanceMatrix(scene, transcript):
 # dtw        = DynamicTimeWarping(distance_func=dtwDistance, no_vertical=True)
 dtw        = DynamicTimeWarping( no_vertical=True)
 template   = '\t\ttranscript: {transcript}\nscene: {scene}\n\n'
-output     = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/{episode}.txt'
-tuple_file = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/tuples/auto_aligned_{episode}.txt'
-dist_file  = '../../../1_scripts/GoT_git/recap_aligned/word2vec2_auto_align/dist_matrix/dist_matrix_{episode}.txt'
+output     = '../../../1_scripts/GoT_git/recap_aligned/word2vec4_auto_align/{episode}.txt'
+tuple_file = '../../../1_scripts/GoT_git/recap_aligned/word2vec4_auto_align/tuples/auto_aligned_{episode}.txt'
+dist_file  = '../../../1_scripts/GoT_git/recap_aligned/word2vec4_auto_align/dist_matrix/dist_matrix_{episode}.txt'
 
-for episode in dataset.episodes[:5]:
+for episode in dataset.episodes[:1]:
     # extract scene and transcript sequences
     scene      = dtwScenes(dataset, episode)
     transcript = dtwTranscript(dataset, episode)

@@ -10,9 +10,26 @@ import re
 import pprint
 from pyannote.parser import SRTParser
 from pyannote.algorithms.alignment.dtw import DynamicTimeWarping
+from contractions import *
 
 dataset = GameOfThrones('../../../0_corpus/tvd')
 recaps_txt_dir = '../../../0_corpus/recaps/recaps_txt'
+
+def cleanText(text):
+    text = text.lower()
+    text = expandContractions(text)
+    text = text.replace(".", "")
+    text = text.replace(",", "")
+    text = text.replace(";", "")
+    text = text.replace(":", "")
+    text = text.replace("?", "")
+    text = text.replace("!", "")
+    text = text.replace("- ", "")
+    text = text.replace("\"", "")
+    text = text.replace("\'", "")
+    text = text.replace("-- ", "")
+    text = text.replace(" --", "")
+    return text
 
 # This function generates a sequence of scene formatted in such a way it
 # can be used with DTW
@@ -24,6 +41,8 @@ def dtwScenes(dataset, episode):
 	nb = 1
 	for scene in recap:
 		if scene:
+			# preprocess
+			scene = cleanText(scene)
 			sequence.append((scene, nb))
 			nb += 1
 
@@ -42,6 +61,8 @@ def dtwTranscript(dataset, episode):
 			continue
 		# UTF8 encoding + strip
 		speech  = data['speech'].encode('utf8').strip()
+		# preprocess
+		speech = cleanText(speech)
 		speaker = data['speaker']
 		sequence.append((speech, speaker))
 	# pprint.pprint(sequence)
@@ -51,8 +72,6 @@ def dtwTranscript(dataset, episode):
 
 # This function takes one element of each sequence and returns a distance based
 # on the number of common words
-# Distance measure needs to be revised. Shared words is ineffective for
-# transcript + episode recap alignment
 def dtwDistance(scene, transcript):
 	scene = scene[0]
 	transcript = transcript[0]
@@ -62,13 +81,13 @@ def dtwDistance(scene, transcript):
 
 	# 1.
 	# number of unique words in scenes - number of unique words in common
-	# return len(scene_words) - len(scene_words & transcript_words)
+	return len(scene_words) - len(scene_words & transcript_words)
 	# 2. (best so far)
 	# number of unique words in transcripts - number of unique words in common
 	# return len(transcript_words) - len(transcript_words & scene_words)
 	# 3.
 	# number of unique words in scenes - number of unique words in common -- normalized
-	return (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
+	# return (len(transcript_words) - len(transcript_words & scene_words)) / float(len(transcript_words))
 
 
 # yay magic
