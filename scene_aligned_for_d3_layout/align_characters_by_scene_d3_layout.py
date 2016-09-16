@@ -28,7 +28,7 @@ with open(transcript_file) as f:
 	transcripts = f.readlines()
 
 ## create json file containing characters with their scenes
-narrative_json = open('data.json','w')
+narrative_json = open('data_to_append.json','w')
 print("{\n\t\"characters\": [", file=narrative_json)
 
 ## fill in json for characters

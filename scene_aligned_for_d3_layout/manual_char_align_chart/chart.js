@@ -1,5 +1,5 @@
 // Request the data
-d3.json('data_final.json', function(err, response){
+d3.json('data.json', function(err, response){
 
 	var svg, scenes, charactersMap, width, height, sceneWidth;
 
