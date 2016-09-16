@@ -1,0 +1,584 @@
+Chapter 1
+	Number of words: 3824
+	Top words:
+		Word: gared	TF-IDF: 0.02504	Freq: 30
+		Word: waymar	TF-IDF: 0.01671	Freq: 22
+		Word: royce	TF-IDF: 0.01089	Freq: 22
+		Word: sable	TF-IDF: 0.00564	Freq: 6
+		Word: lordling	TF-IDF: 0.00364	Freq: 7
+Chapter 2
+	Number of words: 3034
+	Top words:
+		Word: bran	TF-IDF: 0.00793	Freq: 40
+		Word: pup	TF-IDF: 0.00729	Freq: 10
+		Word: greyjoy	TF-IDF: 0.00554	Freq: 12
+		Word: pups	TF-IDF: 0.00552	Freq: 8
+		Word: jon	TF-IDF: 0.00523	Freq: 30
+Chapter 3
+	Number of words: 2060
+	Top words:
+		Word: ned	TF-IDF: 0.00655	Freq: 17
+		Word: catelyn	TF-IDF: 0.00624	Freq: 15
+		Word: godswood	TF-IDF: 0.00495	Freq: 7
+		Word: weirwood	TF-IDF: 0.00386	Freq: 4
+		Word: faith	TF-IDF: 0.00322	Freq: 3
+Chapter 4
+	Number of words: 4147
+	Top words:
+		Word: illyrio	TF-IDF: 0.01599	Freq: 30
+		Word: dany	TF-IDF: 0.01278	Freq: 28
+		Word: magister	TF-IDF: 0.00905	Freq: 16
+		Word: viserys	TF-IDF: 0.00757	Freq: 19
+		Word: khal	TF-IDF: 0.00717	Freq: 18
+Chapter 5
+	Number of words: 3776
+	Top words:
+		Word: ned	TF-IDF: 0.01177	Freq: 56
+		Word: lantern	TF-IDF: 0.00423	Freq: 5
+		Word: crypt	TF-IDF: 0.00423	Freq: 5
+		Word: robert	TF-IDF: 0.00338	Freq: 32
+		Word: tombs	TF-IDF: 0.00308	Freq: 4
+Chapter 6
+	Number of words: 3266
+	Top words:
+		Word: jon	TF-IDF: 0.01021	Freq: 63
+		Word: ghost	TF-IDF: 0.00476	Freq: 12
+		Word: benjen	TF-IDF: 0.00453	Freq: 11
+		Word: dwarfs	TF-IDF: 0.00383	Freq: 5
+		Word: dwarf	TF-IDF: 0.00331	Freq: 9
+Chapter 7
+	Number of words: 3480
+	Top words:
+		Word: ned	TF-IDF: 0.01072	Freq: 47
+		Word: catelyn	TF-IDF: 0.00984	Freq: 40
+		Word: luwin	TF-IDF: 0.00879	Freq: 21
+		Word: lens	TF-IDF: 0.00334	Freq: 4
+		Word: maester	TF-IDF: 0.00334	Freq: 24
+Chapter 8
+	Number of words: 2726
+	Top words:
+		Word: arya	TF-IDF: 0.01573	Freq: 54
+		Word: septa	TF-IDF: 0.01329	Freq: 21
+		Word: mordane	TF-IDF: 0.00823	Freq: 13
+		Word: stitches	TF-IDF: 0.0066	Freq: 5
+		Word: needlework	TF-IDF: 0.00639	Freq: 6
+Chapter 9
+	Number of words: 3798
+	Top words:
+		Word: bran	TF-IDF: 0.00935	Freq: 59
+		Word: gargoyle	TF-IDF: 0.00672	Freq: 8
+		Word: ledge	TF-IDF: 0.00382	Freq: 5
+		Word: pony	TF-IDF: 0.00291	Freq: 5
+		Word: roof	TF-IDF: 0.00276	Freq: 5
+Chapter 10
+	Number of words: 2145
+	Top words:
+		Word: tyrion	TF-IDF: 0.01741	Freq: 42
+		Word: jaime	TF-IDF: 0.00494	Freq: 15
+		Word: tommen	TF-IDF: 0.00463	Freq: 5
+		Word: chayle	TF-IDF: 0.00298	Freq: 2
+		Word: differ	TF-IDF: 0.00298	Freq: 2
+Chapter 11
+	Number of words: 2052
+	Top words:
+		Word: jon	TF-IDF: 0.00954	Freq: 37
+		Word: good-bye	TF-IDF: 0.00526	Freq: 3
+		Word: arya	TF-IDF: 0.00503	Freq: 13
+		Word: nymeria	TF-IDF: 0.00323	Freq: 3
+		Word: messed	TF-IDF: 0.00311	Freq: 2
+Chapter 12
+	Number of words: 3851
+	Top words:
+		Word: dany	TF-IDF: 0.01474	Freq: 30
+		Word: illyrio	TF-IDF: 0.01263	Freq: 22
+		Word: drogo	TF-IDF: 0.0112	Freq: 25
+		Word: khal	TF-IDF: 0.01072	Freq: 25
+		Word: dothraki	TF-IDF: 0.00788	Freq: 20
+Chapter 13
+	Number of words: 3227
+	Top words:
+		Word: ned	TF-IDF: 0.01156	Freq: 47
+		Word: unspeakable	TF-IDF: 0.00446	Freq: 4
+		Word: robert	TF-IDF: 0.00371	Freq: 30
+		Word: dishonored	TF-IDF: 0.00334	Freq: 3
+		Word: aerys	TF-IDF: 0.00329	Freq: 7
+Chapter 14
+	Number of words: 3557
+	Top words:
+		Word: tyrion	TF-IDF: 0.012	Freq: 48
+		Word: yoren	TF-IDF: 0.00585	Freq: 11
+		Word: skulls	TF-IDF: 0.0049	Freq: 6
+		Word: snow	TF-IDF: 0.00402	Freq: 18
+		Word: book	TF-IDF: 0.00319	Freq: 6
+Chapter 15
+	Number of words: 3883
+	Top words:
+		Word: catelyn	TF-IDF: 0.0086	Freq: 39
+		Word: luwin	TF-IDF: 0.00788	Freq: 21
+		Word: robb	TF-IDF: 0.00511	Freq: 33
+		Word: bran	TF-IDF: 0.00356	Freq: 23
+		Word: rodrik	TF-IDF: 0.0034	Freq: 11
+Chapter 16
+	Number of words: 5139
+	Top words:
+		Word: sansa	TF-IDF: 0.01087	Freq: 79
+		Word: joffrey	TF-IDF: 0.00783	Freq: 39
+		Word: arya	TF-IDF: 0.00772	Freq: 50
+		Word: nymeria	TF-IDF: 0.00559	Freq: 13
+		Word: mycah	TF-IDF: 0.00486	Freq: 10
+Chapter 17
+	Number of words: 2334
+	Top words:
+		Word: ned	TF-IDF: 0.01123	Freq: 33
+		Word: arya	TF-IDF: 0.0068	Freq: 20
+		Word: raymun	TF-IDF: 0.00498	Freq: 4
+		Word: jory	TF-IDF: 0.00463	Freq: 9
+		Word: liar	TF-IDF: 0.00448	Freq: 5
+Chapter 18
+	Number of words: 1717
+	Top words:
+		Word: crow	TF-IDF: 0.0256	Freq: 21
+		Word: bran	TF-IDF: 0.00911	Freq: 26
+		Word: fly	TF-IDF: 0.00528	Freq: 7
+		Word: falling	TF-IDF: 0.00499	Freq: 8
+		Word: mists	TF-IDF: 0.00488	Freq: 4
+Chapter 19
+	Number of words: 4005
+	Top words:
+		Word: moreo	TF-IDF: 0.01168	Freq: 13
+		Word: catelyn	TF-IDF: 0.00642	Freq: 30
+		Word: varys	TF-IDF: 0.00619	Freq: 17
+		Word: rodrik	TF-IDF: 0.00569	Freq: 19
+		Word: littlefinger	TF-IDF: 0.00419	Freq: 14
+Chapter 20
+	Number of words: 5238
+	Top words:
+		Word: jon	TF-IDF: 0.00808	Freq: 80
+		Word: alliser	TF-IDF: 0.00591	Freq: 14
+		Word: grenn	TF-IDF: 0.00559	Freq: 14
+		Word: noye	TF-IDF: 0.00461	Freq: 9
+		Word: toad	TF-IDF: 0.0038	Freq: 9
+Chapter 21
+	Number of words: 4742
+	Top words:
+		Word: ned	TF-IDF: 0.00988	Freq: 59
+		Word: littlefinger	TF-IDF: 0.00961	Freq: 38
+		Word: renly	TF-IDF: 0.00354	Freq: 14
+		Word: varys	TF-IDF: 0.00338	Freq: 11
+		Word: catelyn	TF-IDF: 0.00325	Freq: 18
+Chapter 22
+	Number of words: 4389
+	Top words:
+		Word: tyrion	TF-IDF: 0.01297	Freq: 64
+		Word: alliser	TF-IDF: 0.00605	Freq: 12
+		Word: mormont	TF-IDF: 0.00532	Freq: 21
+		Word: cage	TF-IDF: 0.00399	Freq: 7
+		Word: crab	TF-IDF: 0.00291	Freq: 4
+Chapter 23
+	Number of words: 3921
+	Top words:
+		Word: arya	TF-IDF: 0.01336	Freq: 66
+		Word: needle	TF-IDF: 0.00694	Freq: 13
+		Word: septa	TF-IDF: 0.0066	Freq: 15
+		Word: mordane	TF-IDF: 0.00528	Freq: 12
+		Word: sansa	TF-IDF: 0.00325	Freq: 18
+Chapter 24
+	Number of words: 4219
+	Top words:
+		Word: dany	TF-IDF: 0.02377	Freq: 53
+		Word: jorah	TF-IDF: 0.009	Freq: 23
+		Word: viserys	TF-IDF: 0.00822	Freq: 21
+		Word: dothraki	TF-IDF: 0.0072	Freq: 20
+		Word: irri	TF-IDF: 0.00707	Freq: 15
+Chapter 25
+	Number of words: 4696
+	Top words:
+		Word: hodor	TF-IDF: 0.00931	Freq: 22
+		Word: bran	TF-IDF: 0.00858	Freq: 67
+		Word: nan	TF-IDF: 0.00614	Freq: 19
+		Word: robb	TF-IDF: 0.00423	Freq: 33
+		Word: click	TF-IDF: 0.00408	Freq: 6
+Chapter 26
+	Number of words: 3235
+	Top words:
+		Word: ned	TF-IDF: 0.00761	Freq: 31
+		Word: pycelle	TF-IDF: 0.00539	Freq: 14
+		Word: grand	TF-IDF: 0.0045	Freq: 10
+		Word: illness	TF-IDF: 0.00449	Freq: 5
+		Word: littlefinger	TF-IDF: 0.00371	Freq: 10
+Chapter 27
+	Number of words: 4936
+	Top words:
+		Word: sam	TF-IDF: 0.01045	Freq: 22
+		Word: halder	TF-IDF: 0.00902	Freq: 19
+		Word: samwell	TF-IDF: 0.00807	Freq: 17
+		Word: pyp	TF-IDF: 0.00806	Freq: 19
+		Word: tarly	TF-IDF: 0.0076	Freq: 16
+Chapter 28
+	Number of words: 4112
+	Top words:
+		Word: ned	TF-IDF: 0.01043	Freq: 54
+		Word: mott	TF-IDF: 0.007	Freq: 8
+		Word: tobho	TF-IDF: 0.00612	Freq: 7
+		Word: armorer	TF-IDF: 0.00522	Freq: 8
+		Word: stannis	TF-IDF: 0.00477	Freq: 17
+Chapter 29
+	Number of words: 3577
+	Top words:
+		Word: masha	TF-IDF: 0.00905	Freq: 9
+		Word: catelyn	TF-IDF: 0.00814	Freq: 34
+		Word: rodrik	TF-IDF: 0.00704	Freq: 21
+		Word: heddle	TF-IDF: 0.00704	Freq: 7
+		Word: marillion	TF-IDF: 0.0045	Freq: 6
+Chapter 30
+	Number of words: 4528
+	Top words:
+		Word: sansa	TF-IDF: 0.00656	Freq: 42
+		Word: septa	TF-IDF: 0.0061	Freq: 16
+		Word: mordane	TF-IDF: 0.00457	Freq: 12
+		Word: jeyne	TF-IDF: 0.00439	Freq: 9
+		Word: gregor	TF-IDF: 0.00439	Freq: 11
+Chapter 31
+	Number of words: 7241
+	Top words:
+		Word: ned	TF-IDF: 0.00877	Freq: 80
+		Word: gregor	TF-IDF: 0.00449	Freq: 18
+		Word: melee	TF-IDF: 0.00291	Freq: 9
+		Word: selmy	TF-IDF: 0.00286	Freq: 12
+		Word: varys	TF-IDF: 0.00282	Freq: 14
+Chapter 32
+	Number of words: 5421
+	Top words:
+		Word: tyrion	TF-IDF: 0.01148	Freq: 70
+		Word: bronn	TF-IDF: 0.00693	Freq: 17
+		Word: willis	TF-IDF: 0.00589	Freq: 11
+		Word: marillion	TF-IDF: 0.00495	Freq: 10
+		Word: chiggen	TF-IDF: 0.00482	Freq: 9
+Chapter 33
+	Number of words: 4830
+	Top words:
+		Word: arya	TF-IDF: 0.00789	Freq: 48
+		Word: cats	TF-IDF: 0.00414	Freq: 8
+		Word: wizard	TF-IDF: 0.00397	Freq: 6
+		Word: torch	TF-IDF: 0.00392	Freq: 10
+		Word: monsters	TF-IDF: 0.00329	Freq: 8
+Chapter 34
+	Number of words: 3024
+	Top words:
+		Word: ned	TF-IDF: 0.00866	Freq: 33
+		Word: varys	TF-IDF: 0.00386	Freq: 8
+		Word: council	TF-IDF: 0.00371	Freq: 9
+		Word: faceless	TF-IDF: 0.00355	Freq: 4
+		Word: littlefinger	TF-IDF: 0.00278	Freq: 7
+Chapter 35
+	Number of words: 7378
+	Top words:
+		Word: catelyn	TF-IDF: 0.00917	Freq: 79
+		Word: mya	TF-IDF: 0.00865	Freq: 20
+		Word: mules	TF-IDF: 0.00692	Freq: 16
+		Word: lysa	TF-IDF: 0.00543	Freq: 36
+		Word: brynden	TF-IDF: 0.00512	Freq: 19
+Chapter 36
+	Number of words: 2497
+	Top words:
+		Word: ned	TF-IDF: 0.00922	Freq: 29
+		Word: littlefinger	TF-IDF: 0.00672	Freq: 14
+		Word: rain	TF-IDF: 0.00669	Freq: 11
+		Word: wyl	TF-IDF: 0.00537	Freq: 5
+		Word: jory	TF-IDF: 0.00528	Freq: 11
+Chapter 37
+	Number of words: 3796
+	Top words:
+		Word: dany	TF-IDF: 0.01595	Freq: 32
+		Word: viserys	TF-IDF: 0.01001	Freq: 23
+		Word: khal	TF-IDF: 0.0087	Freq: 20
+		Word: dothraki	TF-IDF: 0.0076	Freq: 19
+		Word: jorah	TF-IDF: 0.00653	Freq: 15
+Chapter 38
+	Number of words: 5082
+	Top words:
+		Word: bran	TF-IDF: 0.00911	Freq: 77
+		Word: robb	TF-IDF: 0.00746	Freq: 63
+		Word: stiv	TF-IDF: 0.00628	Freq: 10
+		Word: theon	TF-IDF: 0.00602	Freq: 21
+		Word: osha	TF-IDF: 0.00514	Freq: 9
+Chapter 39
+	Number of words: 5150
+	Top words:
+		Word: mord	TF-IDF: 0.01735	Freq: 28
+		Word: tyrion	TF-IDF: 0.01226	Freq: 71
+		Word: vardis	TF-IDF: 0.00573	Freq: 11
+		Word: trial	TF-IDF: 0.00496	Freq: 8
+		Word: lysa	TF-IDF: 0.00475	Freq: 22
+Chapter 40
+	Number of words: 2479
+	Top words:
+		Word: ned	TF-IDF: 0.01121	Freq: 35
+		Word: gerold	TF-IDF: 0.00541	Freq: 5
+		Word: oswell	TF-IDF: 0.00435	Freq: 3
+		Word: arthur	TF-IDF: 0.00403	Freq: 4
+		Word: dream	TF-IDF: 0.0038	Freq: 7
+Chapter 41
+	Number of words: 4847
+	Top words:
+		Word: vardis	TF-IDF: 0.01659	Freq: 30
+		Word: bronn	TF-IDF: 0.01095	Freq: 24
+		Word: catelyn	TF-IDF: 0.00583	Freq: 33
+		Word: sellsword	TF-IDF: 0.00574	Freq: 14
+		Word: lysas	TF-IDF: 0.00443	Freq: 8
+Chapter 42
+	Number of words: 2968
+	Top words:
+		Word: chett	TF-IDF: 0.0137	Freq: 14
+		Word: pyp	TF-IDF: 0.00635	Freq: 9
+		Word: sam	TF-IDF: 0.00632	Freq: 8
+		Word: aemon	TF-IDF: 0.00614	Freq: 12
+		Word: jon	TF-IDF: 0.00606	Freq: 34
+Chapter 43
+	Number of words: 3575
+	Top words:
+		Word: bronn	TF-IDF: 0.01732	Freq: 28
+		Word: tyrion	TF-IDF: 0.01194	Freq: 48
+		Word: gunthor	TF-IDF: 0.00714	Freq: 8
+		Word: conn	TF-IDF: 0.00406	Freq: 5
+		Word: sellsword	TF-IDF: 0.00389	Freq: 7
+Chapter 44
+	Number of words: 3528
+	Top words:
+		Word: marq	TF-IDF: 0.0076	Freq: 10
+		Word: sherrer	TF-IDF: 0.00714	Freq: 7
+		Word: gregor	TF-IDF: 0.00614	Freq: 12
+		Word: ned	TF-IDF: 0.00608	Freq: 27
+		Word: joss	TF-IDF: 0.0051	Freq: 5
+Chapter 45
+	Number of words: 3006
+	Top words:
+		Word: septa	TF-IDF: 0.01205	Freq: 21
+		Word: sansa	TF-IDF: 0.01011	Freq: 43
+		Word: mordane	TF-IDF: 0.00746	Freq: 13
+		Word: jeyne	TF-IDF: 0.00736	Freq: 10
+		Word: beric	TF-IDF: 0.00557	Freq: 8
+Chapter 46
+	Number of words: 3250
+	Top words:
+		Word: ned	TF-IDF: 0.00904	Freq: 37
+		Word: tomard	TF-IDF: 0.00384	Freq: 5
+		Word: tom	TF-IDF: 0.00349	Freq: 6
+		Word: fatted	TF-IDF: 0.00332	Freq: 3
+		Word: grand	TF-IDF: 0.00269	Freq: 6
+Chapter 47
+	Number of words: 4439
+	Top words:
+		Word: dany	TF-IDF: 0.01492	Freq: 35
+		Word: khal	TF-IDF: 0.01302	Freq: 35
+		Word: drogo	TF-IDF: 0.00894	Freq: 23
+		Word: viserys	TF-IDF: 0.00856	Freq: 23
+		Word: dothraki	TF-IDF: 0.0065	Freq: 19
+Chapter 48
+	Number of words: 4987
+	Top words:
+		Word: ned	TF-IDF: 0.00955	Freq: 60
+		Word: cayn	TF-IDF: 0.00524	Freq: 9
+		Word: boar	TF-IDF: 0.00417	Freq: 11
+		Word: renly	TF-IDF: 0.00409	Freq: 17
+		Word: protector	TF-IDF: 0.00399	Freq: 9
+Chapter 49
+	Number of words: 2959
+	Top words:
+		Word: sam	TF-IDF: 0.01426	Freq: 18
+		Word: marsh	TF-IDF: 0.00897	Freq: 12
+		Word: bowen	TF-IDF: 0.00792	Freq: 10
+		Word: jon	TF-IDF: 0.00698	Freq: 39
+		Word: samwell	TF-IDF: 0.00634	Freq: 8
+Chapter 50
+	Number of words: 2230
+	Top words:
+		Word: ned	TF-IDF: 0.00748	Freq: 21
+		Word: barristan	TF-IDF: 0.00483	Freq: 8
+		Word: septa	TF-IDF: 0.00464	Freq: 6
+		Word: joffrey	TF-IDF: 0.00417	Freq: 9
+		Word: slynt	TF-IDF: 0.00397	Freq: 4
+Chapter 51
+	Number of words: 4662
+	Top words:
+		Word: syrio	TF-IDF: 0.01392	Freq: 31
+		Word: arya	TF-IDF: 0.01005	Freq: 59
+		Word: forel	TF-IDF: 0.00697	Freq: 13
+		Word: deeper	TF-IDF: 0.00426	Freq: 10
+		Word: stick	TF-IDF: 0.00407	Freq: 11
+Chapter 52
+	Number of words: 3796
+	Top words:
+		Word: sansa	TF-IDF: 0.00894	Freq: 48
+		Word: boros	TF-IDF: 0.00551	Freq: 10
+		Word: joffrey	TF-IDF: 0.00544	Freq: 20
+		Word: jeynes	TF-IDF: 0.00474	Freq: 5
+		Word: jeyne	TF-IDF: 0.00466	Freq: 8
+Chapter 53
+	Number of words: 6069
+	Top words:
+		Word: jon	TF-IDF: 0.00767	Freq: 88
+		Word: sam	TF-IDF: 0.00579	Freq: 15
+		Word: ghost	TF-IDF: 0.00555	Freq: 26
+		Word: jaremy	TF-IDF: 0.00541	Freq: 14
+		Word: corn	TF-IDF: 0.00536	Freq: 18
+Chapter 54
+	Number of words: 5625
+	Top words:
+		Word: hodor	TF-IDF: 0.0106	Freq: 30
+		Word: bran	TF-IDF: 0.00717	Freq: 67
+		Word: osha	TF-IDF: 0.00516	Freq: 10
+		Word: luwin	TF-IDF: 0.00389	Freq: 15
+		Word: robb	TF-IDF: 0.00374	Freq: 35
+Chapter 55
+	Number of words: 4366
+	Top words:
+		Word: dany	TF-IDF: 0.01821	Freq: 42
+		Word: jorah	TF-IDF: 0.01021	Freq: 27
+		Word: cask	TF-IDF: 0.00804	Freq: 11
+		Word: drogo	TF-IDF: 0.00711	Freq: 18
+		Word: merchant	TF-IDF: 0.00675	Freq: 11
+Chapter 56
+	Number of words: 4390
+	Top words:
+		Word: wendel	TF-IDF: 0.00529	Freq: 8
+		Word: catelyn	TF-IDF: 0.00527	Freq: 27
+		Word: greatjon	TF-IDF: 0.00427	Freq: 8
+		Word: robb	TF-IDF: 0.00384	Freq: 28
+		Word: wylis	TF-IDF: 0.00331	Freq: 5
+Chapter 57
+	Number of words: 3686
+	Top words:
+		Word: shagga	TF-IDF: 0.01164	Freq: 16
+		Word: timett	TF-IDF: 0.01103	Freq: 14
+		Word: tyrion	TF-IDF: 0.01062	Freq: 44
+		Word: chella	TF-IDF: 0.00779	Freq: 9
+		Word: kevan	TF-IDF: 0.0061	Freq: 9
+Chapter 58
+	Number of words: 3373
+	Top words:
+		Word: sansa	TF-IDF: 0.00608	Freq: 29
+		Word: council	TF-IDF: 0.00591	Freq: 16
+		Word: joffrey	TF-IDF: 0.00582	Freq: 19
+		Word: slynt	TF-IDF: 0.00524	Freq: 8
+		Word: janos	TF-IDF: 0.00459	Freq: 7
+Chapter 59
+	Number of words: 3534
+	Top words:
+		Word: varys	TF-IDF: 0.00825	Freq: 20
+		Word: ned	TF-IDF: 0.00652	Freq: 29
+		Word: stannis	TF-IDF: 0.00261	Freq: 8
+		Word: gaoler	TF-IDF: 0.00247	Freq: 3
+		Word: painful	TF-IDF: 0.00247	Freq: 3
+Chapter 60
+	Number of words: 5229
+	Top words:
+		Word: frey	TF-IDF: 0.00941	Freq: 26
+		Word: walder	TF-IDF: 0.00941	Freq: 26
+		Word: catelyn	TF-IDF: 0.00541	Freq: 33
+		Word: freys	TF-IDF: 0.00526	Freq: 11
+		Word: stevron	TF-IDF: 0.005	Freq: 9
+Chapter 61
+	Number of words: 4955
+	Top words:
+		Word: jon	TF-IDF: 0.00652	Freq: 61
+		Word: ravens	TF-IDF: 0.00488	Freq: 14
+		Word: bucket	TF-IDF: 0.00469	Freq: 8
+		Word: aemon	TF-IDF: 0.00459	Freq: 15
+		Word: raven	TF-IDF: 0.00353	Freq: 12
+Chapter 62
+	Number of words: 3728
+	Top words:
+		Word: dany	TF-IDF: 0.01777	Freq: 35
+		Word: khal	TF-IDF: 0.01639	Freq: 37
+		Word: drogo	TF-IDF: 0.01018	Freq: 22
+		Word: sheep	TF-IDF: 0.00779	Freq: 10
+		Word: mirri	TF-IDF: 0.00719	Freq: 10
+Chapter 63
+	Number of words: 7136
+	Top words:
+		Word: tyrion	TF-IDF: 0.01171	Freq: 94
+		Word: bronn	TF-IDF: 0.00837	Freq: 27
+		Word: shae	TF-IDF: 0.00626	Freq: 14
+		Word: shagga	TF-IDF: 0.00526	Freq: 14
+		Word: trumpets	TF-IDF: 0.00313	Freq: 7
+Chapter 64
+	Number of words: 3044
+	Top words:
+		Word: valley	TF-IDF: 0.00705	Freq: 8
+		Word: catelyn	TF-IDF: 0.00535	Freq: 19
+		Word: robb	TF-IDF: 0.00534	Freq: 27
+		Word: battle	TF-IDF: 0.00317	Freq: 9
+		Word: daryn	TF-IDF: 0.00315	Freq: 3
+Chapter 65
+	Number of words: 5209
+	Top words:
+		Word: dany	TF-IDF: 0.02289	Freq: 63
+		Word: mirri	TF-IDF: 0.01287	Freq: 25
+		Word: qotho	TF-IDF: 0.01125	Freq: 25
+		Word: maz	TF-IDF: 0.01081	Freq: 21
+		Word: drogo	TF-IDF: 0.00994	Freq: 30
+Chapter 66
+	Number of words: 4990
+	Top words:
+		Word: arya	TF-IDF: 0.00907	Freq: 57
+		Word: pigeon	TF-IDF: 0.00537	Freq: 10
+		Word: street	TF-IDF: 0.00443	Freq: 10
+		Word: flea	TF-IDF: 0.0036	Freq: 5
+		Word: needle	TF-IDF: 0.00336	Freq: 8
+Chapter 67
+	Number of words: 4278
+	Top words:
+		Word: osha	TF-IDF: 0.01222	Freq: 18
+		Word: luwin	TF-IDF: 0.01022	Freq: 30
+		Word: bran	TF-IDF: 0.00591	Freq: 42
+		Word: torch	TF-IDF: 0.00531	Freq: 12
+		Word: maester	TF-IDF: 0.00373	Freq: 33
+Chapter 68
+	Number of words: 3742
+	Top words:
+		Word: joffrey	TF-IDF: 0.00662	Freq: 24
+		Word: meryn	TF-IDF: 0.00607	Freq: 12
+		Word: sansa	TF-IDF: 0.00586	Freq: 31
+		Word: sandor	TF-IDF: 0.00338	Freq: 7
+		Word: traitor	TF-IDF: 0.00319	Freq: 6
+Chapter 69
+	Number of words: 4154
+	Top words:
+		Word: dany	TF-IDF: 0.01777	Freq: 39
+		Word: mirri	TF-IDF: 0.00968	Freq: 15
+		Word: maz	TF-IDF: 0.00904	Freq: 14
+		Word: duur	TF-IDF: 0.00904	Freq: 14
+		Word: jorah	TF-IDF: 0.00716	Freq: 18
+Chapter 70
+	Number of words: 3490
+	Top words:
+		Word: kevan	TF-IDF: 0.01002	Freq: 14
+		Word: tyrion	TF-IDF: 0.00917	Freq: 36
+		Word: harys	TF-IDF: 0.00618	Freq: 6
+		Word: tywin	TF-IDF: 0.00522	Freq: 17
+		Word: addam	TF-IDF: 0.00384	Freq: 5
+Chapter 71
+	Number of words: 4972
+	Top words:
+		Word: jon	TF-IDF: 0.00777	Freq: 73
+		Word: mare	TF-IDF: 0.00545	Freq: 15
+		Word: sam	TF-IDF: 0.00519	Freq: 11
+		Word: pyp	TF-IDF: 0.00505	Freq: 12
+		Word: mormont	TF-IDF: 0.0038	Freq: 17
+Chapter 72
+	Number of words: 4547
+	Top words:
+		Word: catelyn	TF-IDF: 0.00565	Freq: 30
+		Word: karstark	TF-IDF: 0.00464	Freq: 9
+		Word: greatjon	TF-IDF: 0.00413	Freq: 8
+		Word: edmure	TF-IDF: 0.004	Freq: 11
+		Word: blackwood	TF-IDF: 0.00385	Freq: 7
+Chapter 73
+	Number of words: 3562
+	Top words:
+		Word: dany	TF-IDF: 0.01913	Freq: 36
+		Word: pyre	TF-IDF: 0.00897	Freq: 11
+		Word: mirri	TF-IDF: 0.00677	Freq: 9
+		Word: maz	TF-IDF: 0.00602	Freq: 8
+		Word: jorah	TF-IDF: 0.00556	Freq: 12
