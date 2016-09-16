@@ -3,10 +3,10 @@ import numpy as np
 
 episode = 'GameOfThrones.Season01.Episode02.txt'
 # what kind of alignment was done
-align_t = 'lemma'
+# align_t = 'lemma'
 # align_t = 'word2vec'
-# align_t = 'word2vec2'
-# align_t = 'doc2vec'
+align_t = 'word2vec2'
+# align_t = 'word2vec3'
 # manually aligned file
 reference_file  = '../recap_aligned/manual_align/manual_aligned_'+episode
 # word2vec aligned file
@@ -36,19 +36,14 @@ make_plot_points(hypothesis_file, hyp)
 make_plot_points(reference_file, ref)
 
 # plot lists of x,y tuples
-plt.plot(*zip(*ref), lw=2, label="reference")
-plt.plot(*zip(*hyp), lw=2, label="hypothesis")
+plt.plot(*zip(*ref), lw=1, label="reference")
+plt.plot(*zip(*hyp), lw=1, label="hypothesis")
 # add labels and legend
 # plt.legend(loc=2)
 plt.title(episode)
 plt.xlabel('transcripts')
 plt.ylabel('scenes')
 
-# dm = np.load(dist_matrix)
-
-# plt.imshow(dm, interpolation='nearest', aspect='auto')
-# plt.colorbar()
-
 # save to folder
-# plt.savefig(align_t+'_path_plots/plot_'+episode+'.eps', format='eps', dpi=1000)
-plt.show()
+plt.savefig(align_t+'_path_plots/plot_'+episode+'.eps', format='eps', dpi=1000)
+# plt.show()
