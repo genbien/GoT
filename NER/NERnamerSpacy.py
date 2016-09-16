@@ -5,7 +5,7 @@ import collections
 
 parser = spacy.en.English()
 
-full_text_file = '../book_align/scene_chapter_auto_align/tfidf/full_text/auto_align_ep01.txt'
+full_text_file = '../book_align/scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep01.txt'
 
 scene_text = collections.OrderedDict()
 

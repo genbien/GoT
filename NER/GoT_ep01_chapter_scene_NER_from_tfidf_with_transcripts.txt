@@ -1,7 +1,7 @@
 1
 ORG Castle Black
 CARDINAL three
-ORG the Nights Watch
+ORG the Nights Watch  
 ORG Ser Waymar Royce
 LOC the Haunted Forest
 PERSON Ser Waymar
@@ -655,6 +655,167 @@ PERSON Jon
 PERSON Stark
 PERSON Theon
 PERSON Jon
+DATE the end of summer
+CARDINAL twenty
+ORDINAL first
+ORDINAL ninth
+ORDINAL seventh
+PERSON Bran
+PERSON Robb
+PERSON Mance Rayder
+PERSON Bran
+PERSON Nan
+ORG the Long Night
+PERSON Robb
+PERSON Robb
+PERSON Jon
+ORG Bran
+CARDINAL seven
+PERSON Bran
+CARDINAL thirty - five
+PERSON Father
+PERSON Bran
+PERSON Lord Stark
+GPE Winterfell
+CARDINAL two
+PERSON Lord Eddard Stark
+PERSON Theon Greyjoy
+PERSON Robb
+NORP Valyrian
+NORP Valyrian
+PERSON Jory Cassel
+PERSON Robert
+ORG the House Baratheon
+PERSON Warden
+LOC North
+PERSON Jon Snow
+CARDINAL One
+QUANTITY Greyjoy 's feet
+PERSON Theon
+PERSON Jon
+PERSON Greyjoy
+PERSON Bran
+PERSON Jon
+PERSON Jon
+DATE fourteen
+PERSON Winterfell
+PERSON Robb
+PERSON Jon Snow
+PERSON Stark
+PERSON Jon
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Robb
+CARDINAL half
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Bran
+PERSON Father
+PERSON Robb
+PERSON Jon
+TIME Night
+PERSON Robert
+ORG Targaryen
+PERSON Starks
+DATE One day
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Jory
+PERSON Jory
+PERSON Bran
+PERSON Robb
+PERSON Jon
+PERSON Robb
+PERSON Jory Cassel
+PERSON Theon Greyjoy
+ORDINAL first
+PERSON Greyjoy
+PERSON Jory
+PERSON Robb
+PERSON Robb
+PERSON Jory
+PERSON Jon
+PERSON Jory
+PERSON Theon Greyjoy
+CARDINAL seven
+PERSON Greyjoy
+PERSON Robb
+PERSON Greyjoy
+PERSON Jon
+PERSON Theon Greyjoy
+DATE two hundred years
+CARDINAL one
+PERSON Jon
+PERSON Bran
+PERSON Robb
+PERSON Robb
+PERSON Robb
+PERSON Jon
+CARDINAL half
+ORDINAL second
+CARDINAL five
+GPE Hullen
+PERSON Jory
+PERSON Father
+PERSON Jory
+PERSON Snow
+PERSON Robb
+PERSON Jory
+ORG Hullen
+WORK_OF_ART Theon Greyjoy
+PERSON Greyjoy
+PERSON Robb
+PERSON Harwin
+PERSON Hullen
+PERSON Hullen
+PERSON Hullen
+PERSON Robb
+PERSON Ser Rodrik 's
+DATE last week
+CARDINAL only two
+PERSON Lord Stark
+PERSON Jon
+CARDINAL five
+PERSON Father
+CARDINAL Three
+CARDINAL two
+PERSON Jon
+CARDINAL five
+PERSON Jon
+CARDINAL Three
+CARDINAL two
+ORG House
+PERSON Jon
+CARDINAL seven
+PERSON Jon
+PERSON Rickon
+PERSON Snow
+PERSON Jon
+PERSON House Stark
+PERSON Jon
+PERSON Stark
+PERSON Jon
+PERSON Robb
+PERSON Robb
+PERSON Robb
+PERSON Winterfell
+PERSON Bran
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+PERSON Jon
+ORDINAL sixth
+TIME that morning
+PERSON Theon Greyjoy
+PERSON Jon Snow
+PERSON Greyjoy
 --------------------------------------------------------------------
 9
 ORG Kings Landing
@@ -778,6 +939,228 @@ PERSON Robert
 PERSON Eddard
 PERSON Eddards
 PERSON Robert
+CARDINAL three hundred
+GPE Baratheon
+PERSON Ned
+PERSON Ser Jaime Lannister
+PERSON Sandor Clegane
+GPE Imp
+CARDINAL two
+PERSON Kingsguard
+PERSON Ned
+PERSON Ned
+PERSON Ned
+DATE Fifteen years past
+ORG Storm
+DATE Six and a half
+ORG House
+PERSON Ned
+PERSON Ned
+DATE nine years before
+PERSON Balon Greyjoy 's
+TIME the night
+GPE Greyjoy
+PERSON Robert
+PERSON Ned
+PERSON Theon
+CARDINAL at least eight
+PERSON Robert
+PERSON Ned
+WORK_OF_ART Your Grace
+PERSON Robert
+PERSON Cersei Lannister
+QUANTITY forty heavy draft
+PERSON Ned
+PERSON Robert
+PERSON Catelyn
+PERSON Ned
+ORDINAL first
+PERSON Robert
+PERSON Jaime
+PERSON Ned
+PERSON Ned
+ORDINAL first
+WORK_OF_ART Winterfell
+PERSON Robert
+PERSON Seven Kingdoms
+PERSON Robert
+PERSON Ned
+PERSON Robert
+PERSON Snow
+PERSON Ned
+CARDINAL one
+PERSON Ned
+WORK_OF_ART The Others take
+PERSON Robert
+DATE winter
+PERSON Ned
+PERSON Starks
+PERSON Robert
+DATE summer
+ORG Storm
+PERSON Ned
+PERSON Ned
+PERSON Robert Baratheon
+PERSON Eddard Stark
+PERSON Ned
+PERSON Robert
+PERSON Ned
+CARDINAL two
+CARDINAL two
+PERSON Father
+PERSON Brandon
+PERSON Robert
+ORG House
+PERSON Stark
+ORG Winterfell
+CARDINAL only a few
+PERSON Ned
+ORDINAL first
+PERSON Dragonlords
+LOC North
+PERSON Ned
+PERSON Ned
+PERSON Robert
+CARDINAL three
+PERSON Lord Rickard Stark
+PERSON Ned
+CARDINAL two
+PERSON Brandon
+CARDINAL twenty
+PERSON Catelyn Tully
+PERSON Lyanna
+DATE sixteen
+PERSON Ned
+PERSON Robert
+PERSON Lyanna
+PERSON Ned
+PERSON Stark
+PERSON Winterfell
+PERSON Ned
+PERSON Ned
+PERSON Brandon
+PERSON Ned
+PERSON Ned
+PERSON Howland Reed
+PERSON Ned
+PERSON Lyanna
+PERSON Rhaegar
+PERSON Ned
+PERSON Robert
+PERSON Robert
+ORG Targaryen
+CARDINAL three
+ORG House
+PERSON Robert
+PERSON Ned
+PERSON Rhaegar
+TIME every night
+PERSON Robert
+PERSON Ned
+WORK_OF_ART The Others take my wife
+PERSON Robert
+PERSON Grace
+PERSON Ned
+PERSON Jon
+PERSON Robert
+PERSON Jon
+PERSON Stark
+PERSON Ned
+PERSON Lysa
+PERSON Robert
+PERSON Jon
+PERSON Ned
+PERSON Tywin Lannister
+FAC Casterly Rock
+PERSON Jon
+PERSON Ned
+PERSON Lord Tywin
+CARDINAL Six
+PERSON Lord Tywin
+PERSON Lysa
+ORG Lannisters
+ORG House
+PERSON Cersei
+PERSON Robert Arryn
+PERSON Ned
+PERSON Catelyn
+PERSON Lord Tywin
+PERSON Lannister
+PERSON Ned
+PERSON Robert
+PERSON Ned
+PERSON Ned
+DATE a few days
+PERSON Ned
+GPE Winterfell
+PERSON Ned
+ORG Night
+PERSON Robert
+DATE eight thousand years
+DATE a few days more
+PERSON Jon Arryn
+GPE Eyrie
+PERSON Warden
+LOC East
+PERSON Ned
+GPE Eyrie
+PERSON Robert
+PERSON Ned
+PERSON Arryns
+PERSON Wardens
+LOC East
+PERSON Robert
+DATE six - year - old
+PERSON Ned
+PERSON Jon
+PERSON Ned
+PERSON Jon
+PERSON Ned
+PERSON Robert
+PERSON Ned
+PERSON Ned
+PERSON Grace
+PERSON Robert
+DATE years
+DATE years
+PERSON Ned
+ORG King 's Landing
+DATE the end of the world
+PERSON Robert
+PERSON Stark
+PERSON Ned
+CARDINAL Half
+CARDINAL half
+ORG Trident
+PERSON Ned
+PERSON Robert
+PERSON Hand
+PERSON Ned
+CARDINAL one
+PERSON Robert
+ORDINAL second
+PERSON Robert
+PERSON Robert
+PERSON Ned
+PERSON Hand
+PERSON Hand
+ORG Winterfell
+PERSON Ned
+CARDINAL one
+PERSON Ned
+PERSON Ned
+PERSON Starks
+PERSON Lyanna
+PERSON Joff
+ORG Sansa
+PERSON Lyanna
+PERSON Sansa
+PERSON Robert
+PERSON Ned
+PERSON Catelyn
+PERSON Ned
+TIME a moment
+PERSON Eddard Stark
 --------------------------------------------------------------------
 18
 ORDINAL first
@@ -2272,207 +2655,209 @@ PERSON Catelyn
 PERSON Robbs
 PERSON Arya
 PERSON Arya
+ORDINAL first
+PERSON Ned Stark
+FAC the Great Hall
+CARDINAL a thousand
+CARDINAL two hundred
+PERSON Jory
+PERSON Father
+CARDINAL only fifty
+PERSON Eddard Stark
+PERSON Jory
+PERSON Hand
 PERSON Sansa
-PERSON Sansa
-PERSON Sansa
-PERSON Lady Catelyn
-PERSON Arya
 PERSON Septa Mordane
-DATE today
-PERSON Arya
-PERSON Myrcella
-PERSON Sansa
-PERSON Beth Cassel
-PERSON Ser Rodrik 's
 PERSON Jeyne Poole
 PERSON Arya
-PERSON Jeyne
 PERSON Sansa
-PERSON Beth
-PERSON Arya
-PERSON Jeyne
+PERSON Robert
 PERSON Septa Mordane
-PERSON Myrcella
 PERSON Sansa
-PERSON Arya
-ORG Joffrey
-PERSON Sansa
-PERSON Arya
-PERSON Jeyne
-PERSON Winterfell
-ORG Sansa
-PERSON Beth
-ORG Sansa
-PERSON Sansa
-PERSON Arya
-PERSON Beth
-PERSON Sansa
-GPE Arya
-PERSON Prince Joff
-PERSON Jon
-PERSON Arya
-PERSON Sansa
-PERSON Poor Jon
-PERSON Arya
-TIME afternoon
-ORG Septa Mordane
-CARDINAL half
-PERSON Arya
-PERSON Septa Mordane
-PERSON Arya
-PERSON Arya
-GPE Sansa
-PERSON Arya
-PERSON Arya
-PERSON Arya
-PERSON Sansa
-PERSON Jeyne
-PERSON Arya
-PERSON Septa Mordane
-PERSON Arya
-PERSON Arya
-PERSON Myrcella
-PERSON Myrcella
-PERSON Septa Mordane
-PERSON Arya
 PERSON Arya
 PERSON Sansa
 PERSON Sansa
-DATE two years
-PERSON Arya
-PERSON Sansa
-PERSON Sansa
-ORG Tullys
-PERSON Arya
-PERSON Jeyne
-CARDINAL one
-PERSON Arya
-PERSON Sansa
-PERSON Prince Joff
-PERSON Arya
-PERSON Nymeria
-GPE Arya
-PERSON Arya
-PERSON Nymeria
-PERSON Mother
-PERSON Arya
-PERSON Nymeria
-PERSON Arya
 CARDINAL two
-PERSON Arya
-PERSON Rhoyne
 PERSON Sansa
 PERSON Arya
-PERSON Nymeria
-ORG Septa Mordane
-PERSON Arya
-PERSON Robb
-PERSON Nymeria
-PERSON Jon
-CARDINAL one
-PERSON Nymeria
-PERSON Jon
-PERSON Bran
-PERSON Prince Tommen
-PERSON Ser Rodrik Cassel
-CARDINAL A dozen
-PERSON Robb
-PERSON Theon Greyjoy
-ORG House
-PERSON Arya
-PERSON Jon
-PERSON Arya
-PERSON Jon
-PERSON Arya
-PERSON Jon
-PERSON Robb
+TIME tonight
 PERSON Sansa
+PERSON Jeyne Poole
+PERSON Jory
+ORG Hullen
+ORG Desmond , Jacks
+PERSON Hullen
+PERSON Harwin
+PERSON Porther
+PERSON Arya
+PERSON Father
+PERSON Sansa
+PERSON Arya
 PERSON Bran
 PERSON Rickon
-PERSON Tullys
+PERSON Robb
+PERSON Jon
+PERSON Sansa
+ORG Sansa
+PERSON Father
+ORG Winterfell
+FAC the Great Hall almost
+PERSON Robb
+ORG Winterfell
+DATE every day
+CARDINAL One
+PERSON Vayon Poole
+PERSON Mikken
+PERSON Hullen
+PERSON Septon Chayle
+PERSON Jory
+PERSON Ser Rodrik
+PERSON Nan
 PERSON Arya
-PERSON Jon
-PERSON Jon
-PERSON Arya
-ORDINAL second
-DATE today
-PERSON Arya
-GPE Tommen
-CARDINAL nine
-PERSON Jon
-DATE fourteen - year - old
-PERSON Arya
-PERSON Jon
-PERSON Tommen
-PERSON Jon
+PERSON Tom
+WORK_OF_ART Arya Underfoot
+WORK_OF_ART Arya Horseface
+PERSON Winterfell
 ORDINAL first
-PERSON Lannister
-PERSON Baratheon
-PERSON Jon
+GPE King
 PERSON Arya
-ORG House
-GPE Lannister
-PERSON Jon
-ORG House
+NORP Hound
+PERSON Mycah
+PERSON Jeyne Poole
 PERSON Arya
-PERSON Jon
-PERSON Wed Tully
-PERSON Stark
-PERSON Jon
-PERSON Prince Tommen
-PERSON Lew
-LOC Donnis
-PERSON Robb
-PERSON Robb
-PERSON Rodrik
-PERSON Ser Rodrik
-PERSON Theon Greyjoy
-PERSON Robb
-ORG Starks
-PERSON Joff
-PERSON Robb
-PERSON Joffrey
-PERSON Jon
+PERSON Harwin
+PERSON Alyn
+PERSON Jory
 PERSON Arya
-PERSON Ser Rodrik
-PERSON Robb
-PERSON Robb
-PERSON Arya
-WORK_OF_ART Master - at - arms of Winterfell
-GPE Clegane
-PERSON Ser Rodrik
-PERSON Robb
-CARDINAL Fourteen
-PERSON Robb
-CARDINAL twelve
-PERSON Robb
-PERSON Rodrik
-PERSON Stark
-PERSON Lannister
-PERSON Robb
-PERSON Arya
-PERSON Theon Greyjoy
-PERSON Robb
-PERSON Ser Rodrik
-GPE Tommen
-ORG Lannisters
-PERSON Robb
-PERSON Ser Rodrik 's
-PERSON Theon
-PERSON Robb
-PERSON Jon
-PERSON Arya
-PERSON Jon
 PERSON Septa Mordane
-DATE winter
-DATE spring
+PERSON Arya
+PERSON Arya
+PERSON Septa Mordane
+PERSON Fat Tom
+PERSON Arya
+PERSON Fat Tom
+ORG King 's Landing
+ORG Septa Mordane
+PERSON Fat Tom
+GPE Sansa
+GPE Jory
+PERSON Arya
+PERSON Sansa
+GPE Jeyne
+PERSON Fat Tom
+PERSON Fat Tom
+PERSON Arya
+PERSON Arya
+GPE Mycah
+PERSON Arya Stark
+PERSON Needle
+ORG Hand
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Needle
+GPE Sansa
+PERSON Septa Mordane
+PERSON Needle
+ORG Nymeria
+GPE Winterfell
+PERSON Jon
+PERSON Jon
+PERSON Arya
+PERSON Arya
+PERSON Arya
+PERSON Father
+PERSON Arya
+PERSON Arya
+PERSON Father
+PERSON Arya
+PERSON Needle
+PERSON Arya
+PERSON Mikken
+PERSON Lord Eddard Stark
+DATE nine - year - old
+ORG The Hand of
+PERSON Arya
 PERSON Arya
 PERSON Jon
+PERSON Father
+PERSON Mordane
+PERSON Arya
+PERSON Septa Mordane
+PERSON Arya
+PERSON Arya
+PERSON Lyanna
+PERSON Brandon
+PERSON Arya
+PERSON Lyanna
+PERSON Lyanna
+PERSON Arya
+PERSON Eddard Stark
+PERSON Arya
+PERSON Needle
+PERSON Septa Mordane
+PERSON Jon
+PERSON Mycah
+PERSON Grieve
+ORG Joffrey
 PERSON Nymeria
 PERSON Arya
-PERSON Jon
-ORG Septa Mordane
+PERSON Jory
+PERSON Jory
+PERSON Jory
+PERSON Needle
+GPE Arya
+PERSON Needle
+PERSON Arya
+ORG Stark of Winterfell
+ORG House
+PERSON Arya
+GPE Nymeria
+PERSON Arya
 PERSON Septa Mordane
+GPE Sansa
+GPE Sansa
+PERSON Arya
+PERSON Sansa
+GPE Winterfell
+PERSON Robb
+PERSON Needle
+ORDINAL first
+PERSON Arya
+PERSON Needle
+ORG Septa Mordane
+PERSON Father
+DATE Three days later
+TIME midday
+PERSON Vayon Poole
+WORK_OF_ART Arya to the Small Hall
+DATE Tomorrow
+TIME midday
+ORG the Free Cities
+PERSON Braavos
+PERSON Myr
+PERSON Arya
+CARDINAL one
+DATE Tomorrow
+PERSON Arya
+PERSON Needle
+CARDINAL two
+CARDINAL one
+PERSON Arya
+CARDINAL One
+PERSON Arya
+PERSON Arya
+DATE Nine years
+ORDINAL first
+GPE Braavos
+ORDINAL third
+PERSON Syrio Forel
+PERSON Arya
+GPE Westeros
+PERSON Arya
+TIME four hours
+PERSON Syrio Forel
+DATE The next day
 --------------------------------------------------------------------
 31
 PERSON Catelyn
@@ -2952,103 +3337,6 @@ PERSON Robert
 PERSON Eddard
 PERSON Eddard
 PERSON Bran
-ORG Winterfell
-PERSON Tyrion Lannister
-PERSON Tyrion
-CARDINAL hundred
-PERSON Chayle
-NORP Valyrian
-PERSON Ayrmidon
-PERSON Tyrion
-ORG Winterfell
-PERSON Sandor Clegane 's
-TIME last night
-PERSON Clegane
-PERSON Winterfell
-PERSON Starks
-ORG Starks
-CARDINAL six
-PERSON Joffrey
-PERSON Sandor
-DATE today
-PERSON Lord Eddard
-PERSON Tyrion
-PERSON Stark
-CARDINAL One
-PERSON Tyrion
-PERSON Mother
-PERSON Joffrey
-ORG Tyrion
-PERSON Lady Stark
-PERSON Tyrion
-PERSON Clegane
-PERSON Tyrion
-GPE Clegane
-ORG Hound
-WORK_OF_ART Tyrion Lannister
-PERSON Sandor Clegane
-ORDINAL first
-DATE today
-TIME morning
-ORG the Guest House
-PERSON Jaime
-PERSON Cersei
-PERSON Robert
-DATE the day
-PERSON Lord Eddard
-PERSON Robert
-PERSON Jaime
-PERSON Jaime
-PERSON Jaime
-PERSON Tyrion
-CARDINAL two
-PERSON Tyrion
-TIME this morning
-GPE Bran
-TIME last night
-PERSON Brandon
-PERSON Tommen
-PERSON Jaime
-PERSON Tyrion
-PERSON Lord Eddard
-PERSON Brandon
-PERSON Jaime
-CARDINAL One
-PERSON Targaryen
-PERSON Cersei
-GPE Tommen
-PERSON Myrcella
-GPE Tommen
-PERSON Jaime
-PERSON Cersei
-PERSON Jaime
-PERSON Tyrion
-DATE four days
-PERSON Myrcella
-PERSON Tyrion
-PERSON Tyrion
-PERSON Jaime
-PERSON Cersei
-PERSON Benjen Stark
-TIME Night
-PERSON Jaime
-GPE Dorne
-GPE Casterly Rock
-PERSON Cersei
-PERSON Myrcella
-TIME morning
-PERSON Jaime Lannister
-PERSON Stark
-ORG Winterfell
-PERSON Robert
-PERSON Robert
-PERSON Jaime
-PERSON Lord Eddard
-PERSON Tyrion
-PERSON Jaime
-PERSON Tyrion
-PERSON Jaime
-PERSON Jaime
 --------------------------------------------------------------------
 35
 CARDINAL one
