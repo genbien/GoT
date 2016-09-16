@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ################################################################################
 ##
-## align book chapters and scenes from episode recaps
+## align book chapters (with added aligned transcripts) and scenes from episode recaps
 ##
 ################################################################################
 
@@ -9,6 +9,10 @@ from __future__ import print_function
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+
+from tvd import GameOfThrones
+from pyannote.parser import SRTParser
+from pyannote.algorithms.alignment.dtw import DynamicTimeWarping
 
 import re
 import os
@@ -96,6 +100,54 @@ def parse_scenes(scenes_dir, flag):
     return scenes
 
 
+# This function generates a sequence of scene formatted in such a way it
+# can be used with DTW
+def dtwScenes(dataset, episode):
+    sequence  = []
+    with open(scenes_dir+'/'+str(episode)+'.txt') as f:
+        recap = f.read().replace('\n', '')
+    recap = re.split(r'=== SCENE \d+ ===', recap)
+    nb = 1
+    for scene in recap:
+        if scene:
+            # preprocess
+            scene = preprocess(scene)
+            sequence.append((scene, nb))
+            nb += 1
+    # ("Walking through the Red Keep, Eddard is intercepted ...", 19),
+    return sequence
+
+
+# This function generates a sequence of transcripts formatted in such a way it
+# can be used with DTW
+def dtwTranscript(dataset, episode):
+    sequence   = []
+    transcript = dataset.get_resource('transcript', episode)
+    for start, end, data in transcript.ordered_edges_iter(data=True):
+        if 'speaker' not in data:
+            continue
+        # UTF8 encoding + strip
+        speech  = data['speech'].encode('utf8').strip()
+        # preprocess
+        speech = preprocess(speech)
+        speaker = data['speaker']
+        sequence.append((speech, speaker))
+    ## ('A crown for a King.', u'KHAL_DROGO'),
+    return sequence
+
+
+# This function takes one element of each sequence and returns a distance based
+# on the number of common words
+def dtwDistance(scene, transcript):
+    scene = scene[0]
+    transcript = transcript[0]
+    scene_words = set(scene.split())
+    transcript_words = set(transcript.split())
+    # number of unique words in transcripts - number of unique words in common
+    return len(transcript_words) - len(transcript_words & scene_words)
+
+
+dataset = GameOfThrones('../../../0_corpus/tvd')
 book_file  = '../../../0_corpus/books/AGameOfThrones.txt'
 scenes_dir = '../../../0_corpus/recaps/recaps_txt/'
 
@@ -111,6 +163,42 @@ print('# of scenes: '+str(len(scenes)))
 # pprint.pprint(book)
 # pprint.pprint(scenes)
 
+# scene are vertical and transcripts are horizontal
+# make sure that DTW doesn't align a transcript to multiple scenes by adding no_vertical=True
+dtw = DynamicTimeWarping(distance_func=dtwDistance, no_vertical=True)
+
+for episode in dataset.episodes[:5]:
+    # extract scene and transcript sequences
+    scene      = dtwScenes(dataset, episode)
+    transcript = dtwTranscript(dataset, episode)
+
+    # dynamic time warping
+    alignment = set(dtw(scene, transcript))
+
+    for s, t in alignment:
+        e = str(episode)
+        scene_idx = scene[s][1]
+        if e.endswith('02'):
+            scene_idx += 35
+        if e.endswith('03'):
+            scene_idx += (35 + 31)
+        if e.endswith('04'):
+            scene_idx += (35 + 31 + 27)
+        if e.endswith('05'):
+            scene_idx += (35 + 31 + 27 + 26)
+
+        if 0 < scene_idx and scene_idx < 36:
+            scenes[scene_idx - 1] += ' '+transcript[t][0]
+        if 35 < scene_idx and scene_idx < 67:
+            scenes[scene_idx - 1] += ' '+transcript[t][0]
+        if 66 < scene_idx and scene_idx < 94:
+            scenes[scene_idx - 1] += ' '+transcript[t][0]
+        if 93 < scene_idx and scene_idx < 120:
+            scenes[scene_idx - 1] += ' '+transcript[t][0]
+        if 119 < scene_idx and scene_idx < 146:
+            scenes[scene_idx - 1] += ' '+transcript[t][0]
+
+
 tfidf_vectorizer = TfidfVectorizer(stop_words='english')
 
 ## tfidf of chapters
@@ -124,31 +212,31 @@ distances = []
 for i, s in enumerate(scene_matrix):
     sim = cosine_similarity(scene_matrix[i], chapter_matrix)
     max_index, max_value = max(enumerate(sim[0]), key=operator.itemgetter(1))
-    ## only align if the tfidf score is higher than 0.25
+    ## +1 because index in ground truth starts at 1 not 0
+    ## append (scene#, chapter#) to distances
     if max_value > 0.25:
-        ## +1 because index in ground truth starts at 1 not 0
         distances.append((i + 1, max_index + 1))
     else:
         distances.append((i + 1, 'x'))
 
-# pprint.pprint(distances)
 
 plot_file = open("distance_plot_points.txt", 'w')
-ep1 = open("scene_chapter_auto_align/tfidf/auto_align_ep01.txt", 'w')
-ep2 = open("scene_chapter_auto_align/tfidf/auto_align_ep02.txt", 'w')
-ep3 = open("scene_chapter_auto_align/tfidf/auto_align_ep03.txt", 'w')
-ep4 = open("scene_chapter_auto_align/tfidf/auto_align_ep04.txt", 'w')
-ep5 = open("scene_chapter_auto_align/tfidf/auto_align_ep05.txt", 'w')
+ep1 = open("scene_chapter_auto_align/tfidf_with_transcripts/auto_align_ep01.txt", 'w')
+ep2 = open("scene_chapter_auto_align/tfidf_with_transcripts/auto_align_ep02.txt", 'w')
+ep3 = open("scene_chapter_auto_align/tfidf_with_transcripts/auto_align_ep03.txt", 'w')
+ep4 = open("scene_chapter_auto_align/tfidf_with_transcripts/auto_align_ep04.txt", 'w')
+ep5 = open("scene_chapter_auto_align/tfidf_with_transcripts/auto_align_ep05.txt", 'w')
 
-ep1_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep01.txt", 'w')
-ep2_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep02.txt", 'w')
-ep3_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep03.txt", 'w')
-ep4_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep04.txt", 'w')
-ep5_full_text = open("scene_chapter_auto_align/tfidf/full_text/auto_align_ep05.txt", 'w')
+ep1_full_text = open("scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep01.txt", 'w')
+ep2_full_text = open("scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep02.txt", 'w')
+ep3_full_text = open("scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep03.txt", 'w')
+ep4_full_text = open("scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep04.txt", 'w')
+ep5_full_text = open("scene_chapter_auto_align/tfidf_with_transcripts/full_text/auto_align_ep05.txt", 'w')
+
 
 x = []
 y = []
-print('scene\tchapter')
+
 for d in distances:
     print(d[0], d[1])
     if 0 < d[0] and d[0] < 36:
@@ -193,11 +281,12 @@ for d in distances:
 
 
 
+
 plt.title('Game of Thrones book 1 and season 1 - chapter and scene alignment -- tfidf')
 plt.xlabel('scenes')
 plt.ylabel('chapters')
 # [xmin, xmax, ymin, ymax]
 plt.axis([0, len(scenes), 0, len(book)])
 plt.scatter(x, y)
-plt.savefig('GoT_chapter_scene_alignment_tfidf.eps', format='eps', dpi=1000)
+plt.savefig('GoT_chapter_scene_alignment_tfidf_with_transcripts.eps', format='eps', dpi=1000)
 # plt.show()

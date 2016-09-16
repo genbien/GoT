@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ################################################################################
 ##
-## align book chapters and scenes from episode recaps
+## align book chapters and scenes from episode recaps -- lemmas
 ##
 ################################################################################
 

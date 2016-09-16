@@ -1,0 +1,42 @@
+------------------------------------------------------------------------
+[GameOfThrones.Season01.Episode01]
+	- scene average length..........:  123.143 words
+	- transcript average length.....:   10.887 words
+	- total words in scene recaps...: 4310 words
+	- total words in transcripts....: 3571 words
+	- number of scenes..............:   35 scenes
+	- number of transcripts.........:  328 transcripts
+	- avg # of transcripts per scene:   9.371 transcripts
+[GameOfThrones.Season01.Episode02]
+	- scene average length..........:  113.387 words
+	- transcript average length.....:   13.215 words
+	- total words in scene recaps...: 3515 words
+	- total words in transcripts....: 3819 words
+	- number of scenes..............:   31 scenes
+	- number of transcripts.........:  289 transcripts
+	- avg # of transcripts per scene:   9.323 transcripts
+[GameOfThrones.Season01.Episode03]
+	- scene average length..........:  155.593 words
+	- transcript average length.....:   14.991 words
+	- total words in scene recaps...: 4201 words
+	- total words in transcripts....: 5232 words
+	- number of scenes..............:   27 scenes
+	- number of transcripts.........:  349 transcripts
+	- avg # of transcripts per scene:   12.926 transcripts
+[GameOfThrones.Season01.Episode04]
+	- scene average length..........:  175.269 words
+	- transcript average length.....:   13.908 words
+	- total words in scene recaps...: 4557 words
+	- total words in transcripts....: 5591 words
+	- number of scenes..............:   26 scenes
+	- number of transcripts.........:  402 transcripts
+	- avg # of transcripts per scene:   15.462 transcripts
+[GameOfThrones.Season01.Episode05]
+	- scene average length..........:  194.538 words
+	- transcript average length.....:   13.147 words
+	- total words in scene recaps...: 5058 words
+	- total words in transcripts....: 5627 words
+	- number of scenes..............:   26 scenes
+	- number of transcripts.........:  428 transcripts
+	- avg # of transcripts per scene:   16.462 transcripts
+------------------------------------------------------------------------
